@@ -41,7 +41,7 @@ There is a variation (Render with Edit Links) that sort of marks the replacement
 
 What it doesn't do:
 
-Recursion, prefixing, wrap the spans with metadata to allow easy understanding and editing.  
+* Recursion, prefixing, include other URLs, wrap the spans with metadata to allow easy understanding and editing.  
 
 
 Next Level:
