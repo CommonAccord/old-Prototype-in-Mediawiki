@@ -27,7 +27,7 @@ Recursion, prefixing, wrap the spans with metadata to allow easy understanding a
 
 Next Level:
 
-It is used in [http://www.beta.commonaccord.org] to codify legal documents.
+It is used in www.beta.commonaccord.org to codify legal documents.
 
 Next Level:
-It is an example of the use of a Lisp-like function.  See [http://beta.commonaccord.org/wiki/About:TechnicalEnablement]
+It is an example of the use of a Lisp-like function.  See www.beta.commonaccord.org/wiki/About:TechnicalEnablement
