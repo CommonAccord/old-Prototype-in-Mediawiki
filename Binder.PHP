@@ -601,7 +601,7 @@ class Binder
 					
 					$content = $this->parseLinks($content);
 					//jgh
-					$content="<qQq href='Link#{$match}'>{$content}</qQq>";
+					$content="<qQq href='{$match}'>{$content}</qQq>";
 
 					
 					$string = str_replace('{'.$originalMatch.'}',$content , $string);
