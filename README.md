@@ -3,8 +3,7 @@ Cmacc-Mediawiki
 
 The Mediawiki extension for the Cmaac data model.  See beta.commonaccord.org.
 
-==How to use it
-Cmacc-Mediawiki
+How to use it
 ===============
 
 The Mediawiki extension for the Cmaac data model.  See beta.commonaccord.org.
@@ -24,8 +23,8 @@ Many thanks to Andrew.  Some fiddling by @hazardj under his initials - JGH.
 
 
 
-==What's this do?
-
+What's this do?
+================
 Nested responses:
 
 It adds to MW a function that is like transclusion:
