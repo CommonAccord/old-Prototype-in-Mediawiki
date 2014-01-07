@@ -3,8 +3,28 @@ Cmacc-Mediawiki
 
 The Mediawiki extension for the Cmaac data model.  See beta.commonaccord.org.
 
+==How to use it
+Cmacc-Mediawiki
+===============
 
-What's this do?  
+The Mediawiki extension for the Cmaac data model.  See beta.commonaccord.org.
+
+@hazardj thinks the only things you need to do to get this working in Mediawiki are the following.  LMK.
+
+
+1. Install MW
+2. Add the following into your LocalSettings.php
+
+require_once( "$IP/extensions/Binder/binder.php" );
+
+
+3. In the extentions directory, create the Binder directory.  Add this file as binder.php:
+
+Many thanks to Andrew.  Some fiddling by @hazardj under his initials - JGH. 
+
+
+
+==What's this do?
 
 Nested responses:
 
