@@ -1,0 +1,1688 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>Beta Common Accord</sitename>
+    <base>http://beta.commonaccord.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.17.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Beta Common Accord</namespace>
+      <namespace key="5" case="first-letter">Beta Common Accord talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Agt. Secs</title>
+    <id>675</id>
+    <revision>
+      <id>7236</id>
+      <timestamp>2014-01-08T23:07:51Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="158">&lt;ol&gt;&lt;li&gt;{Deal._Sec}&lt;/li&gt;&lt;li&gt;{Rep._Sec}&lt;/li&gt;&lt;li&gt;{Cov._Sec}&lt;/li&gt;&lt;li&gt;{Cond._Sec}&lt;/li&gt;&lt;li&gt;[[Agt.BackEnd._Secs]]&lt;/li&gt;&lt;li&gt;{Def._Sec}&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.3Party. Sec</title>
+    <id>680</id>
+    <revision>
+      <id>7183</id>
+      <timestamp>2014-01-08T09:49:46Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="315">&lt;u&gt;[[Agt.Misc.3Party._Sec|No Rights for Non-Parties]]&lt;/u&gt;.&amp;nbsp; This Agreement is not intended to give any person other than the parties hereto the benefit of any legal or equitable right, remedy{q} or claim under this Agreement, except as may be otherwise expressly stated in this Agreement.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.assigns.and</title>
+    <id>683</id>
+    <revision>
+      <id>6542</id>
+      <timestamp>2013-12-29T22:44:55Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;successors, heirs, executors, administrators{q} and permitted assigns [[Category:Core.Agt]]&quot;</comment>
+      <text xml:space="preserve" bytes="91">successors, heirs, executors, administrators{q} and permitted assigns
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Successor. Sec</title>
+    <id>682</id>
+    <revision>
+      <id>7645</id>
+      <timestamp>2014-01-18T16:38:50Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="164">&lt;u&gt;[[Agt.Misc.Successor._Sec|Successors]]&lt;/u&gt;.&amp;nbsp; This Agreement will inure to the benefit of the parties and their respective {{:3.assigns.and}}, and no others.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Bind. Sec</title>
+    <id>681</id>
+    <revision>
+      <id>7637</id>
+      <timestamp>2014-01-18T16:32:14Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="124">&lt;u&gt;[[Agt.Misc.Bind._Sec|Binding]]&lt;/u&gt;.  This Agreement is binding upon and enforceable by the parties.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA Agt Misc Library</title>
+    <id>605</id>
+    <revision>
+      <id>6733</id>
+      <timestamp>2013-12-31T19:25:13Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="990">Miscellanous provisions for an NDA.  Sand Hill simple. 
+
+Each section has been made into a separate wiki page and is here via mwTransclusion.  To see those pages, switch to the &quot;View Source&quot; tab, above, and look towards the bottom of the page.  
+
+&lt;binder&gt;
+SandHill/NDA_Agt_Misc_Library
+&lt;/binder&gt;
+
+&lt;field&gt;
+Default_Field={Misc}
+Misc={{:SandHill/NDA.Agt._Sec.S}}
+Dispute.Law={{:SandHill/NDA.Agt.Dispute.Law._Sec}}
+Dispute.Forum={{:SandHill/NDA.Agt.Dispute.Forum._Sec}}
+Disclaim.License={{:SandHill/NDA.Agt.Disclaim.License._Sec}}
+Disclaim.Agency={{:SandHill/NDA.Agt.Disclaim.Agency._Sec}}
+Misc.Counterpart={{:SandHill/NDA.Agt.Misc.Counterpart._Sec}}
+Misc.Amend={{:SandHill/NDA.Agt.Misc.Amend._Sec}}
+Misc.Delay={{:Com_SeriesSeed/R03.PreStInv.Agt.Misc.Delay._Sec}}
+Misc.Entire={{:SandHill/NDA.Agt.Misc.Entire._Sec}}
+Misc.Sever={{:SandHill/NDA.Agt.Misc.Sever._Sec}}
+Misc.Assign._Sec={{:Agt.Misc.Assign._Sec}}
+Misc.BindAmong._Sec={{:SandHill/NDA.Agt.Misc.BindAmong._Sec}}
+&lt;/field&gt;
+[[Category:NDA]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Misc.BindAmong. Sec</title>
+    <id>630</id>
+    <revision>
+      <id>6538</id>
+      <timestamp>2013-12-29T22:40:48Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="249">{{:Agt.Misc.Bind._Sec}}  Notwithstanding the foregoing, nothing in this Agreement is intended to give any person not named herein the benefit of any legal or equitable right, remedy or claim under this Agreement, except as expressly provided herein.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Test 02</title>
+    <id>639</id>
+    <revision>
+      <id>6349</id>
+      <timestamp>2013-12-17T21:50:55Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1191">&lt;field&gt;
+Default_Field={Misc}
+
+Misc={{:SandHill/NDA.Agt._Sec.S}}
+&lt;b&gt; &lt;/b&gt;=[[SandHill/NDA.Agt._Sec.S]]
+Dispute.Law={{:SandHill/NDA.Agt.Dispute.Law._Sec}}
+&lt;b&gt;_&lt;/b&gt;=[[SandHill/NDA.Agt.Dispute.Law._Sec]]
+Dispute.Forum={{:SandHill/NDA.Agt.Dispute.Forum._Sec}}
+&lt;b&gt;-&lt;/b&gt;=[[SandHill/NDA.Agt.Dispute.Forum._Sec]]
+Disclaim.License={{:SandHill/NDA.Agt.Disclaim.License._Sec}}
+&lt;b&gt;  &lt;/b&gt;=[[SandHill/NDA.Agt.Disclaim.License._Sec]]
+Disclaim.Agency={{:SandHill/NDA.Agt.Disclaim.Agency._Sec}}
+&lt;b&gt; _&lt;/b&gt;=[[SandHill/NDA.Agt.Disclaim.Agency._Sec]]
+Misc.Counterpart={{:SandHill/NDA.Agt.Misc.Counterpart._Sec}}
+&lt;b&gt; -&lt;/b&gt;=[[SandHill/NDA.Agt.Misc.Counterpart._Sec]]
+Misc.Amend={{:SandHill/NDA.Agt.Misc.Amend._Sec}}
+&lt;b&gt;_ &lt;/b&gt;=[[SandHill/NDA.Agt.Misc.Amend._Sec]]
+Misc.Entire={{:SandHill/NDA.Agt.Misc.Entire._Sec}}
+&lt;b&gt;__&lt;/b&gt;=[[SandHill/NDA.Agt.Misc.Entire._Sec]]
+Misc.Sever={{:SandHill/NDA.Agt.Misc.Sever._Sec}}
+&lt;b&gt;_-&lt;/b&gt;=[[SandHill/NDA.Agt.Misc.Sever._Sec]]
+XMisc.Assign._Sec={{:SandHill/NDA.Agt.Misc.Assign.RequiresConsent._Sec}}
+&lt;b&gt;- &lt;/b&gt;=[[SandHill/NDA.Agt.Misc.Assign.RequiresConsent._Sec]]
+Misc.BindAmong._Sec={{:SandHill/NDA.Agt.Misc.BindAmong._Sec}}
+&lt;b&gt;-_&lt;/b&gt;=[[SandHill/NDA.Agt.Misc.BindAmong._Sec]]
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Remedy.AttyFee. Sec</title>
+    <id>698</id>
+    <revision>
+      <id>7161</id>
+      <timestamp>2014-01-08T05:51:56Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="350">{{Agt.Sec|Agt.Remedy.AttyFee._Sec|Attorneys’ Fees}} In any {{:3.suit.or}} (including arbitration) to enforce or interpret the terms of this Agreement, the prevailing party shall be entitled to reasonable attorneys' fees, costs{q} and necessary disbursements in addition to any other relief to which such party may be entitled.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.suit.and</title>
+    <id>699</id>
+    <revision>
+      <id>6584</id>
+      <timestamp>2013-12-30T01:05:43Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="58">suit, action{q} and other proceeding
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.suit.or</title>
+    <id>688</id>
+    <revision>
+      <id>6585</id>
+      <timestamp>2013-12-30T01:06:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="57">suit, action{q} or other proceeding
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Dispute.Forum. Sec</title>
+    <id>638</id>
+    <revision>
+      <id>6551</id>
+      <timestamp>2013-12-29T22:59:09Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Replaced content with &quot;{{:Agt.Dispute.Forum._Sec}}&quot;</comment>
+      <text xml:space="preserve" bytes="27">{{:Agt.Dispute.Forum._Sec}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Dispute.Forum. Sec</title>
+    <id>687</id>
+    <revision>
+      <id>6557</id>
+      <timestamp>2013-12-29T23:09:37Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="892">&lt;u&gt;Dispute Resolution&lt;/u&gt;.  Each party:&lt;ol&gt;&lt;li&gt;hereby irrevocably and unconditionally submits to {Dispute.Forum._cl} as the exclusive forum for the purpose of any {{:3.suit.or}} arising out of or based upon this Agreement;&lt;/li&gt;&lt;li&gt;agrees not to commence any {{:3.suit.or}} arising out of or based upon this Agreement except in such forum; and&lt;/li&gt;&lt;li&gt;hereby waives, and agrees not to assert, by way of motion, as a defense or otherwise, in any such {{:3.suit.or}}, any claim that:&lt;ol&gt;&lt;li&gt;it is not subject personally to the jurisdiction of such forum;&lt;/li&gt;&lt;li&gt;that its property is exempt or immune from attachment or execution;&lt;/li&gt;&lt;li&gt;that the {{:3.suit.or}} in such forum is brought in an inconvenient forum;&lt;/li&gt;&lt;li&gt;that the venue of the {{:3.suit.or}} is improper or that this Agreement or the subject matter hereof and thereof may not be enforced in or by such forum.&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Core.Agt.Def</title>
+    <id>726</id>
+    <revision>
+      <id>6643</id>
+      <timestamp>2013-12-30T06:03:06Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;Definitions for the Core Agt. [[Category:Core.Agt]]&quot;</comment>
+      <text xml:space="preserve" bytes="51">Definitions for the Core Agt.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Prologue</title>
+    <id>734</id>
+    <revision>
+      <id>6711</id>
+      <timestamp>2013-12-31T15:32:57Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="260">&lt;div align=&quot;center&quot;&gt;&lt;b&gt;[[Agt.Prologue.Heading]]&lt;/b&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;div style=&quot;text-align: left;&quot;&gt;[[Agt.Prologue.ThisAgreement]]&lt;ul style=&quot;list-style-type: none;&quot;&gt;&lt;li&gt;[[Agt.Prologue.Recital]]&lt;/li&gt;&lt;/ul&gt;[[Agt.Prologue.NowTherefore]]&lt;/div&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Prologue.Heading</title>
+    <id>735</id>
+    <revision>
+      <id>6696</id>
+      <timestamp>2013-12-31T15:01:17Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;{{:Model.Agt.Prologue.Heading}} [[Category:Core.Agt]]&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{:Model.Agt.Prologue.Heading}}
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Prologue.ThisAgreement</title>
+    <id>736</id>
+    <revision>
+      <id>6697</id>
+      <timestamp>2013-12-31T15:01:58Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;{{:Model.Agt.Prologue.ThisAgreement}} [[Category:Core.Agt]]&quot;</comment>
+      <text xml:space="preserve" bytes="59">{{:Model.Agt.Prologue.ThisAgreement}}
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Prologue.NowTherefore</title>
+    <id>737</id>
+    <revision>
+      <id>6698</id>
+      <timestamp>2013-12-31T15:02:51Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;{{:Model.Agt.Prologue.NowTherefore}} [[Category:Core.Agt]]&quot;</comment>
+      <text xml:space="preserve" bytes="58">{{:Model.Agt.Prologue.NowTherefore}}
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Signature.Witness</title>
+    <id>738</id>
+    <revision>
+      <id>6699</id>
+      <timestamp>2013-12-31T15:04:21Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;{{:Model.Agt.Signature.Witness}} [[Category:Core.Agt]]&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{:Model.Agt.Signature.Witness}}
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Signature</title>
+    <id>739</id>
+    <revision>
+      <id>6712</id>
+      <timestamp>2013-12-31T15:34:37Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="74">[[Agt.Signature.Witness]]&lt;br/&gt;{Agt.Signature._Block}
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt Frame</title>
+    <id>674</id>
+    <revision>
+      <id>7787</id>
+      <timestamp>2014-01-26T16:13:28Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="271">Click on &quot;Render,&quot; just below to see the full framework, rendered out.
+
+Click on &quot;Discussion&quot; just above.
+
+&lt;binder&gt;
+Relationship_Acme_Quake
+Agt_Frame
+&lt;/binder&gt;
+
+
+&lt;field&gt;
+Doc.Body=[[Agt._Body]]
+
+&lt;b&gt;Other&lt;/b&gt;=-
+Doc.Meta=Frame from Agt_Frame
+&lt;/field&gt;
+
+[[Category:Model.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt. Body</title>
+    <id>673</id>
+    <revision>
+      <id>6713</id>
+      <timestamp>2013-12-31T15:35:07Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="124">&lt;div&gt;[[Agt.Prologue]]&lt;ol&gt;&lt;li&gt;[[Agt._Secs]]&lt;/li&gt;&lt;/ol&gt;[[Agt.Signature]]&lt;div&gt;[[Agt.Attachment]]&lt;br&gt;&lt;/div&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Term. Sec.NDA</title>
+    <id>743</id>
+    <revision>
+      <id>6726</id>
+      <timestamp>2013-12-31T16:05:11Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[Agt.Term. Sec.Indefinite]] to [[Agt.Term. Sec.NDA]]</comment>
+      <text xml:space="preserve" bytes="328">&lt;u&gt;Term&lt;/u&gt;.  The term of this Agreement shall commence on the Effective Date and terminate on the earliest of {Agt.Term.Stop.List}.  {RP.A}’s obligations with respect to use and non-disclosure of {DP.the}’s Confidential Information shall survive after termination until {Agt.Term.Conf.Protect.Period}.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Assign. Sec</title>
+    <id>691</id>
+    <revision>
+      <id>7638</id>
+      <timestamp>2014-01-18T16:33:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="445">&lt;u&gt;[[Agt.Misc.Assign._Sec|Assignment]]&lt;/u&gt;.&amp;nbsp; This Agreement may not be assigned by any party without the prior written consent of each other party.  A party will not delegate any of its duties except with the prior written consent of the other parties.  If a party does delegate a duty, whether or not permitted hereunder, the party will supervise and remain responsible for the performance of the duty by the delegee.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA.Agt. Secs</title>
+    <id>747</id>
+    <revision>
+      <id>7585</id>
+      <timestamp>2014-01-13T17:14:45Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="463">&lt;ol&gt;&lt;li&gt;[[Agt.Conf.Engage._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Confidential_Information]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Confidential_Subject_Matter]]&lt;/li&gt;&lt;li&gt;[[Agt.Conf.Reveal._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Conf.Except._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Conf.CC._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Conf.Care._Sec]]&lt;/li&gt;&lt;li&gt;[[NDA.Agt.Term._Sec]]&lt;/li&gt;&lt;li&gt;[[NDA.Agt.Disclaim._Sec]]&lt;/li&gt;&lt;li&gt;{Dispute._Sec}&lt;/li&gt;&lt;li&gt;[[NDA.Agt.Remedy._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Misc._Sec]]&lt;/li&gt;&lt;li&gt;[[NDA.Agt.Def;Usage._Sec]]&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA Agt Library</title>
+    <id>748</id>
+    <revision>
+      <id>6780</id>
+      <timestamp>2014-01-01T06:02:32Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="5782">&lt;binder&gt;
+NDA_Agt_Library
+&lt;/binder&gt;
+&lt;field&gt;
+Def.Disclosing_Party={{:Agt.Def.Disclosing_Party}}
+Def.Receiving_Party={{:Agt.Def.Receiving_Party}}
+Agt._Secs=[[NDA.Agt._Secs]]
+Doc.Body=[[Agt._Body]]
+Agt.Term._Sec=[[Agt.Term._Sec.NDA]]
+Def._Sec=&lt;u&gt;Definitions&lt;/u&gt;.  &lt;ol&gt;&lt;li&gt;[[Agt.Def.Confidential_Information]]&lt;/li&gt;&lt;li&gt;{Def.Agent}&lt;/li&gt;&lt;li&gt;{Def.Confidential_Communication}&lt;/li&gt;&lt;li&gt;{Def.Confidential_Subject_Matter}&lt;/li&gt;&lt;li&gt;{Def.Contemplated_Transaction}&lt;/li&gt;&lt;li&gt;{Def.Disclosing_Party}&lt;/li&gt;&lt;li&gt;{Def.Receiving_Party}&lt;/li&gt;&lt;li&gt;{Def.Representative}&lt;/li&gt;&lt;/ol&gt;
+
+Conf.Define.Regard={DP.the} or any of its Agents
+Def.Agent=&quot;&lt;u&gt;Agent&lt;/u&gt;&quot; means affiliates, {3.agents.1}, consultants{q} and {3.agents.3} of a party. 
+Def.Confidential_Communication_=&quot;&lt;u&gt;{Confidential Communication}&lt;/u&gt;&quot; means any method of communicating information that:&lt;ol&gt;&lt;li&gt;does not expose the information to the public, and&lt;/li&gt;&lt;li&gt;is preceded or accompanied by a declaration of the Disclosing Party that the information is confidential.
+Def.Confidential_Subject_Matter=&quot;&lt;u&gt;{Confidential_Subject_Matter}&lt;/u&gt;&quot; means any information regarding the Disclosing Party, any of its affiliates, and the {3.agents.or} of the Disclosing Party or its affiliates, including, without limitation, information concerning the past, present, or potential business relationships, business, or financial affairs of any of the Disclosing Parties,
+Def.Contemplated_Transaction=&quot;&lt;u&gt;Contemplated Transaction&lt;/u&gt;&quot; means {Agt.Contemplated_Transaction} 
+Def.Representative=&quot;&lt;u&gt;Representative&lt;/u&gt;&quot; means any Agent of a party who acts for the party in connection with this Agreement.
+Conf.Use._Sec={Conf.Use}
+Conf.CC._Sec=&lt;u&gt;Circulation of Information by {RP}&lt;/u&gt;. {L-}{Conf.CC._Sen}{-L-}{Conf.CC.Warn._Sen}{-L-}{Conf.CC.Supervise._Sen}{-L}
+Conf.CC.Who=such of its Agents
+Agt.Remedy.Injunct._Sec={Remedy.Injunct._Sec}
+&lt;b&gt;Conf.Except&lt;/b&gt;=
+Conf.Except._Sec={Select.Conf.Except._Sec}
+Select.Conf.Except._Sec=&lt;b&gt;Select&lt;/b&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Select.Conf.Except.List._Sec&lt;/b&gt;&lt;br&gt;{Select.Conf.Except.List._Sec}&lt;/li&gt;&lt;li&gt;&lt;b&gt;Conf.Except.Compelled._Sec&lt;/b&gt;&lt;br&gt;{Conf.Except.Compelled._Sec}&lt;/li&gt;&lt;li&gt;&lt;b&gt;Conf.Except.Residual._Sec&lt;/b&gt;&lt;br&gt;{Conf.Except.Residual._Sec}&lt;/li&gt;&lt;/ol&gt;
+
+
+Select.Conf.Except.List._Sec=&lt;b&gt;Select one of these: Conf.Except.List._Sec:&lt;/b&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Conf.Except.List.All_Sec (knock out the ones you don't need)&lt;/b&gt;&lt;br&gt;{Conf.Except.List.All._Sec}&lt;/li&gt; or &lt;li&gt;&lt;b&gt;Conf.Except.List.Short._Sec (shorter)&lt;/b&gt;&lt;br&gt;{Conf.Except.List.Short._Sec}&lt;/li&gt;&lt;/ol&gt;
+
+
+&lt;b&gt;Conf.Except.List.All&lt;/b&gt;=This is meant to be a comprehensive list (except for Compelled and Residuals).  It can be expanded to cover those and can have variations.
+
+Conf.Except.List.All._Sec=&lt;u&gt;Exceptions&lt;/u&gt;. {Conf.Except.Intro._Cl}:  {L-}{Conf.Except.Makes._cl};{-L-}{Conf.Except.Finds._cl};{-L-}{Conf.Except.Has._cl};{-L-}{Conf.Except.Release._cl};{-L-}{Conf.Except.Authorize._cl}; or{-L-}{Conf.Except.Public._cl}.{-L}
+
+
+Conf.Except.List.Short._Sec=&lt;u&gt;Exceptions&lt;/u&gt;. {Conf.Except.Intro._Cl}:  (a) {Conf.Except.Public._cl}; (b) {Conf.Except.Finds._cl}; or {Conf.Except.Has._cl}.
+Conf.Except.Intro._Cl=The term “Confidential Information” does not include any information that {RP.the} can demonstrate
+Conf.Except.Public._cl=is or becomes publicly available (other than as a result of a breach of this Agreement by {RP.orReps})
+Conf.Except.Finds._cl=is or becomes available to {RP.a} without confidentiality restriction from a source other than {DP.a}
+Conf.Except.Has._cl=is known by {RP.a} prior to its disclosure by {DP.a}
+
+Conf.Except.Makes._cl=is independently developed by {RP.the} without use of or reference to {DP.the}'s Confidential Information
+Conf.Except.Release._cl={DP.the} discloses to third parties without obligation of confidentiality
+Conf.Except.Authorize._cl={DP.the} expressly authorizes {RP.the} to use or disclose
+
+Conf.Except.Compelled._Sec=&lt;u&gt;Mandatory Disclosures&lt;/u&gt;.  {Conf.Except.Compelled.Base._Sen} {Conf.Except.Compelled.Limit._Sen}  {Conf.Except.Add._Sen}
+
+Conf.Except.Compelled.Base._Sen=This Agreement shall not be construed to prohibit disclosure of, and {RP.the} may disclose, the Confidential Information or any portion thereof to the extent required (i) by applicable law or regulation or (ii) (a) by a subpoena, civil investigative demand or similar demand or request of any court, regulatory authority, arbitrator{q} or tribunal, or (b) for evidentiary purposes in any relevant action, proceeding or arbitration to which {RP.andAmbit} is a party.
+
+Conf.Except.Compelled.Limit._Sen=In the case of any disclosure pursuant to this section on mandatory disclosures, the Receiving Party will give {DP.the} prior notice of the information to be disclosed to the extent that such notice is permissible and practicable under the circumstances and, upon the request and at the expense of {DP.the}, will seek to obtain confidential treatment of such information by the persons to whom it is disclosed.
+&lt;b&gt;Govt Demand&lt;/b&gt;=Consider whether this provision is needed or not (bz redundant w/ Compelled.Base._Sen).
+Conf.Except.Add._Sen=Notwithstanding the foregoing, the Receiving Party will be permitted to disclose, with such prior notice as is reasonable under the circumstances), the Confidential Information or any portion thereof upon the request of any government or regulatory or self‑regulatory body having or claiming authority to regulate or oversee any aspect of its business or that of its affiliates, but agrees to advise them of the confidential nature of such information and request confidential treatment of such information.
+Conf.Except.Residual._Sec=&lt;u&gt;Residual Knowledge&lt;/u&gt;.  This Agreement is not intended to prevent {RP.the} from using Residual Knowledge, subject to any valid patents, copyrights{q} and semiconductor mask work rights of {DP.the}.
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Build 1</title>
+    <id>750</id>
+    <revision>
+      <id>6781</id>
+      <timestamp>2014-01-01T06:06:56Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;&lt;binder&gt; Build_1 &lt;/binder&gt;  &lt;field&gt; Model.Root={Prologue}&lt;br&gt;{Text}&lt;br&gt;{Signature}&lt;br&gt;{Attachments} Prologue=[[Agt.Prologue]] Text=[[Agt._Secs]] Signature=[[Agt.Signature]] Attac...&quot;</comment>
+      <text xml:space="preserve" bytes="194">&lt;binder&gt;
+Build_1
+&lt;/binder&gt;
+
+&lt;field&gt;
+Model.Root={Prologue}&lt;br&gt;{Text}&lt;br&gt;{Signature}&lt;br&gt;{Attachments}
+Prologue=[[Agt.Prologue]]
+Text=[[Agt._Secs]]
+Signature=[[Agt.Signature]]
+Attachments=
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA.Agt.Term. Sec</title>
+    <id>777</id>
+    <revision>
+      <id>7455</id>
+      <timestamp>2014-01-12T05:22:43Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="241">&lt;u&gt;[[NDA.Agt.Term._Sec|Term and Termination]]&lt;/u&gt;.&amp;nbsp; &lt;ol&gt;&lt;li&gt;[[Agt.Term.Agreed.EndFixedDate._Sec]]&lt;/li&gt;&lt;li&gt;{Agt.Conf.Engage.Term._Sec}&lt;/li&gt;&lt;li&gt;[[NDA.Agt.Term.Stop._Sec]]&lt;/li&gt;&lt;li&gt;[[NDA.Agt.Term.After._Sec]]&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Agt. Secs</title>
+    <id>781</id>
+    <revision>
+      <id>7052</id>
+      <timestamp>2014-01-04T01:33:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="94">&lt;binder&gt;
+Talk:Agt._Secs
+&lt;/binder&gt;
+&lt;field&gt;
+Default_Field=&lt;ol&gt;&lt;li&gt;{Agt._Secs}&lt;/li&gt;&lt;/ol&gt;
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA.Agt.Dispute. Sec</title>
+    <id>685</id>
+    <revision>
+      <id>7056</id>
+      <timestamp>2014-01-04T01:37:21Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[Agt.Dispute. Sec]] to [[NDA.Agt.Dispute. Sec]]</comment>
+      <text xml:space="preserve" bytes="206">&lt;u&gt;Resolution of Disputes&lt;/u&gt;.&lt;ol&gt;&lt;li&gt;{Agt.Dispute.Law._Sec}&lt;/li&gt;&lt;li&gt;[[Agt.Dispute.Negotiate._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Dispute.Forum._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Dispute.JuryWaiver._Sec]]&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA.Agt.Remedy. Sec</title>
+    <id>689</id>
+    <revision>
+      <id>7260</id>
+      <timestamp>2014-01-08T23:54:45Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="233">&lt;u&gt;[[NDA.Agt.Remedy._Sec|Remedies]]&lt;/u&gt;.&amp;nbsp;  &lt;ol&gt;&lt;li&gt;[[Agt.Remedy.Cumulative._Sec]]&lt;/li&gt;&lt;li&gt;[[NDA.Agt.Remedy.Injunct._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Remedy.AttyFee._Sec]]&lt;/li&gt;&lt;li&gt;[[Agt.Remedy.ConfReturn._Sec]]&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA.Agt.Remedy.Injunct. Sec</title>
+    <id>782</id>
+    <revision>
+      <id>7399</id>
+      <timestamp>2014-01-11T21:21:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="942">&lt;u&gt;[[NDA.Agt.Remedy.Injunct._Sec|Injunctions]]&lt;/u&gt;.&amp;nbsp; The Receiving Party acknowledges and agrees that:&lt;ol&gt;&lt;li&gt;the restrictions contained in this Agreement are necessary for the protection of the business and goodwill of the Disclosing Party and the Receiving Party considers such restrictions to be reasonable for such purpose;&lt;/li&gt;&lt;li&gt;the misappropriation or unauthorized disclosure of Confidential Information is likely to cause substantial and irreparable damage to the Disclosing Party and the other applicable Disclosing Parties; and&lt;/li&gt;&lt;li&gt;damages may not be an adequate remedy for breach of this Agreement by the Receiving Party.&lt;/li&gt;&lt;/ol&gt;
+The Disclosing Party shall be entitled to injunctive or other equitable relief, in addition to all other remedies available to any of the Disclosing Parties at law or at equity, and no proof of special damages shall be necessary for the enforcement of this Agreement.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA.Agt.Def. Secs</title>
+    <id>765</id>
+    <revision>
+      <id>7064</id>
+      <timestamp>2014-01-04T02:42:12Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="330">&lt;ol&gt;&lt;li&gt;[[Agt.Def.Agent]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Confidential_Information]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Confidentiality_Engagement]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Contemplated_Transaction]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Disclosing_Party]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Purpose]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Receiving_Party]]&lt;/li&gt;&lt;li&gt;[[Agt.Def.Representative]]&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.FinderFee. Sec</title>
+    <id>717</id>
+    <revision>
+      <id>7194</id>
+      <timestamp>2014-01-08T09:58:03Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="651">&lt;u&gt;[[Agt.Misc.FinderFee._Sec|No Finder’s Fees]]&lt;/u&gt;.&amp;nbsp; Each party represents that it is not and will not in the future become obligated for any finder’s fee or commission in connection with this Agreement or the {Contemplated Transactions}.  Each party agrees to indemnify and to hold harmless other parties from any liability for any commission or compensation in the nature of a finder’s or broker’s fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which such party or any of its officers, employees{q} or representatives is responsible.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Further. Sec</title>
+    <id>713</id>
+    <revision>
+      <id>7195</id>
+      <timestamp>2014-01-08T09:59:07Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="320">&lt;u&gt;[[Agt.Misc.Further._Sec|Further Assurances]]&lt;/u&gt;.&amp;nbsp; Each party will:&lt;ol&gt;&lt;li&gt;execute and deliver to each other party such other documents; and&lt;/li&gt;&lt;li&gt;do such other acts and things,&lt;/li&gt;&lt;/ol&gt;as another party may reasonably request for the purpose of carrying out the intent of this Agreement.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Heading. Sec</title>
+    <id>720</id>
+    <revision>
+      <id>7196</id>
+      <timestamp>2014-01-08T09:59:35Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="220">&lt;u&gt;[[Agt.Misc.Heading._Sec|Headings]]&lt;/u&gt;.&amp;nbsp; The headings and titles of this Agreement are merely indicative and will not be interpreted to limit the meaning of the provisions of this Agreement.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Language. Sec</title>
+    <id>718</id>
+    <revision>
+      <id>7197</id>
+      <timestamp>2014-01-08T10:00:03Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="201">&lt;u&gt;[[Agt.Misc.Language._Sec|Language]]&lt;/u&gt;.&amp;nbsp; The language of this Agreement is English.  Any translation in another language is for convenience and has no legal significance.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Majeure. Sec</title>
+    <id>719</id>
+    <revision>
+      <id>7198</id>
+      <timestamp>2014-01-08T10:00:46Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="433">&lt;u&gt;[[Agt.Misc.Majeure._Sec|Force Majeure]]&lt;/u&gt;.&amp;nbsp; A party will not be liable for any delay or failure to perform its obligations under this Agreement caused by an event which:&lt;ol&gt;&lt;li&gt;is beyond the party's reasonable control;&lt;/li&gt;&lt;li&gt;was not reasonably foreseeable at the time of signing this Agreement; and&lt;/li&gt;&lt;li&gt;is in the nature of a strike, riot, war, fire, act of God{q} or act of government.&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Notice. Sec</title>
+    <id>706</id>
+    <revision>
+      <id>7641</id>
+      <timestamp>2014-01-18T16:35:47Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="130">&lt;u&gt;[[Agt.Misc.Notice._Sec|Notices]]&lt;/u&gt;.&amp;nbsp;  [[Agt.Misc.Notice.Base._Sen]]  [[Agt.Misc.Notice.Addr._Sen]]
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Sever. Sec</title>
+    <id>705</id>
+    <revision>
+      <id>7644</id>
+      <timestamp>2014-01-18T16:38:15Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="500">&lt;u&gt;[[Agt.Misc.Sever._Sec|Severability]]&lt;/u&gt;.&amp;nbsp; To the extent possible, each provision of this Agreement will be interpreted to be effective and valid under applicable law.  If any provision of this Agreement is deemed prohibited or invalid under applicable law, such provision will be ineffective only to the extent of such prohibition or invalidity.  Such prohibition or invalidity shall not invalidate the remainder of such provision or other provisions of this Agreement.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Valid. Sec</title>
+    <id>721</id>
+    <revision>
+      <id>7203</id>
+      <timestamp>2014-01-08T10:03:45Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="711">&lt;u&gt;[[Agt.Misc.Valid._Sec|Valid and Enforceable]]&lt;/u&gt;.&amp;nbsp; Each party represents that upon the execution and delivery of a counterpart of this Agreement by each party hereto, this Agreement will constitute the legal, valid{q} and binding obligation of such party, enforceable against such party in accordance with the terms of this Agreement.  Each party represents that it  has the absolute and unrestricted right, power, authority{q} and capacity to perform its obligations under this Agreement.  Each person signing this Agreement on behalf of a party represents that he/she has the right, power, authority{q} and capacity to execute and deliver this Agreement on behalf of such party.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Amend. Sec</title>
+    <id>679</id>
+    <revision>
+      <id>7204</id>
+      <timestamp>2014-01-08T10:04:55Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="197">&lt;u&gt;[[Agt.Misc.Amend._Sec|Amendments]]&lt;/u&gt;.&amp;nbsp;  The terms and provisions of this Agreement may be modified or amended only with the unanimous written consent of the parties.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Misc.Amend. Sec</title>
+    <id>626</id>
+    <revision>
+      <id>6533</id>
+      <timestamp>2013-12-29T22:26:47Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="24">{{:Agt.Misc.Amend._Sec}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Delay. Sec</title>
+    <id>694</id>
+    <revision>
+      <id>7206</id>
+      <timestamp>2014-01-08T10:06:29Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="981">&lt;u&gt;[[Agt.Misc.Delay._Sec|Delay]]&lt;/u&gt;. A failure or delay by any party in exercising any {{:3.power.or}} under this Agreement will not operate as a waiver of such {{:3.power.or}}, and no single or partial exercise of any such {{:3.power.or}} will preclude any other or further exercise of such {{:3.power.or}} or the exercise of any other {{:3.power.or}}. To the maximum extent permitted by applicable law:&lt;ol&gt;&lt;li&gt;no claim or right arising out of this Agreement can be waived by a party, in whole or in part, unless such waiver is made in a writing signed by such party;&lt;/li&gt;&lt;li&gt;a waiver given by a party will only be applicable to the specific instance for which it is given; and&lt;/li&gt;&lt;li&gt;no notice to or demand on a party will:&lt;ol&gt;&lt;li&gt;waive or otherwise affect any obligation of that party, or&lt;/li&gt;&lt;li&gt;affect the right of the party giving such notice or demand to take further action without notice or demand as provided in this Agreement.&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Entire. Sec</title>
+    <id>693</id>
+    <revision>
+      <id>7207</id>
+      <timestamp>2014-01-08T10:06:55Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="669">&lt;u&gt;[[Agt.Misc.Entire._Sec|Entire Agreement]]&lt;/u&gt;.&amp;nbsp; This Agreement constitutes the entire agreement with respect to the subject matter hereof and supersedes all other prior agreements, commitments{q} and understandings, whether written or not, among the parties or between any of them.   No boilerplate provisions of any purchase order, acknowledgement{q} or other business form that a party may use in connection with the transactions contemplated by this Agreement will modify the rights, duties{q} or obligations of the parties under this Agreement, regardless of any failure of a party to object to such terms, provisions{q} or conditions.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Misc.Entire. Sec</title>
+    <id>627</id>
+    <revision>
+      <id>6567</id>
+      <timestamp>2013-12-29T23:38:43Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="25">{{:Agt.Misc.Entire._Sec}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Expense. Sec</title>
+    <id>716</id>
+    <revision>
+      <id>7389</id>
+      <timestamp>2014-01-11T20:56:24Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="417">&lt;u&gt;[[Agt.Misc.Expense._Sec|Expenses]]&lt;/u&gt;.&amp;nbsp; Except as otherwise provided in this Agreement, each party will bear its respective costs, fees{q} and expenses incurred in connection with the preparation, negotiation, execution{q} and performance of this Agreement and the consummation and performance of the {Contemplated Transactions}, including all fees and expenses of its {Representative}s.[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.BackEnd. Secs</title>
+    <id>676</id>
+    <revision>
+      <id>7244</id>
+      <timestamp>2014-01-08T23:33:45Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="146">&lt;ol&gt;&lt;li&gt;{Term._Sec}&lt;/li&gt;&lt;li&gt;{Disclaim._Sec}&lt;/li&gt;&lt;li&gt;{Dispute._Sec}&lt;/li&gt;&lt;li&gt;{Remedy._Sec}&lt;/li&gt;&lt;li&gt;[[Agt.Misc._Sec]]&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt Frame Test 2</title>
+    <id>789</id>
+    <revision>
+      <id>7496</id>
+      <timestamp>2014-01-12T07:06:52Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="440">&lt;binder&gt;
+Agt_Frame_Test_2
+Relationship_Acme_Quake
+Org_Mozilla_Consult_Agt_Dispute_Arb_Library
+Agt_Frame
+&lt;/binder&gt;
+&lt;field&gt;
+Agt._Secs={NDA.Agt._Secs}
+Agt.Conf.Engage.Term._Sec={Agt.Conf.Engage.Term.FixedDate._Sec}
+Conf.CC.Who._cl={Agt.Conf.CC.Who.Agents._cl}
+Dispute._Sec={Moz.Dispute._Sec}
+Moz.Dispute.Cost._Sec={Moz.Dispute.Cost.Shift.Prevailing._Sec}
+Remedy.Injunct._Sec.Xnum=on Remedies: Injunctions
+Dispute._Sec.Xnum=on Disputes
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Conf.CC. Sec</title>
+    <id>810</id>
+    <revision>
+      <id>7500</id>
+      <timestamp>2014-01-12T15:16:09Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="277">&lt;u&gt;[[Agt.Conf.CC._Sec|Circulation of Information by {RP}]]&lt;/u&gt;.  
+The Receiving Party may circulate Confidential Information to {Conf.CC.Who._cl}.  To &quot;circulate&quot; information to a person means to enable a person to learn or have access to the information.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Conf.Engage.Term.Indefinite. Sec</title>
+    <id>837</id>
+    <revision>
+      <id>7438</id>
+      <timestamp>2014-01-12T03:13:11Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="244">&lt;u&gt;[[Agt.Conf.Engage.Term.Indefinite._Sec|Period of Confidentiality]]&lt;/u&gt;. The Confidentiality Engagement will continue in effect until all of the Confidential Information has become subject to a Confidentiality Exception.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Conf.Engage.Term.FixedDate. Sec</title>
+    <id>838</id>
+    <revision>
+      <id>7504</id>
+      <timestamp>2014-01-12T15:22:27Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="292">&lt;u&gt;[[Agt.Conf.Engage.Term.FixedDate._Sec|Period of Confidentiality]]&lt;/u&gt;. The Confidentiality Engagement will continue in effect until all of the Confidential Information has become subject to a Confidentiality Exception or {Agt.Conf.Engage.End.YMD}, whichever is first.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Conf.Except.Compelled. Sec</title>
+    <id>820</id>
+    <revision>
+      <id>7478</id>
+      <timestamp>2014-01-12T06:37:24Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="993">&lt;u&gt;[[Agt.Conf.Except.Compelled._Sec|Compelled Disclosure]]&lt;/u&gt;.  If a Receiving Party becomes compelled in any Proceeding to make any disclosure that is prohibited by the Confidentiality Engagement, the Receiving Party will, to the extent legally permissible, provide the Disclosing Party with prompt notice of such compulsion so that the Disclosing Party may seek an appropriate protective order or other appropriate remedy or waive compliance with the Confidentiality Engagement.  In the absence of a protective order or other remedy, the Receiving Party may disclose that portion (and only that portion) of the Confidential Information that, based upon the opinion of its counsel, the Receiving Party is legally compelled to disclose; provided, however, that the Disclosing Party uses its best efforts to obtain written assurance that any person to whom any Confidential Information is so disclosed shall accord confidential treatment to such Confidential Information.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Test 21</title>
+    <id>847</id>
+    <revision>
+      <id>7492</id>
+      <timestamp>2014-01-12T06:58:47Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="154">&lt;binder&gt;
+Test 21
+&lt;/binder&gt;
+&lt;field&gt;
+Agt.Conf.Except.Has._cl=hello
+Agt.Misc.Heading._Sec=hello
+Agt._Secs={NDA.Agt._Secs}
+Default_Field={Agt._Body}
+
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>NDA Agt Frame</title>
+    <id>859</id>
+    <revision>
+      <id>7785</id>
+      <timestamp>2014-01-26T16:05:44Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="268">This is a model NDA agreement.  There is a Demo use at [[NDA_Agt_Demo_1]].
+
+&lt;binder&gt;
+NDA Agt Frame
+Agt_Frame
+&lt;/binder&gt;
+
+&lt;field&gt;
+Agt.Title=Mutual Non-Disclosure Agreement
+Agt._Secs=[[NDA.Agt._Secs]]
+Conf.Reveal.Mention.Post.Days=seven (7)
+&lt;/field&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Prologue.Recital.Reveal.Mutual. Sen</title>
+    <id>861</id>
+    <revision>
+      <id>7601</id>
+      <timestamp>2014-01-14T19:25:38Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="304">In the course of their discussions, the parties anticipate that each of them will reveal Confidential Information.  For purposes of this Agreement, each party is a Disclosing Party with respect to its information and a Receiving Party with respect to information of the other party.
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt Frame Demo 1</title>
+    <id>860</id>
+    <revision>
+      <id>7557</id>
+      <timestamp>2014-01-13T00:35:25Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="891">&lt;binder&gt;
+Agt_Frame_Demo_1
+Relationship_Acme_Quake
+Org_Mozilla_Consult_Agt_Dispute_Arb_Library
+Agt_Frame
+&lt;/binder&gt;
+&lt;field&gt;
+Agt.Title=Mutual Non-Disclosure Agreement
+Pcpl.-=Acme
+Cttr.-=Quake
+Def.Conf.Subject._List=&lt;ol&gt;&lt;li&gt;[[Org_ABA/MSPA_V2.Agt.cCov.Conf.Subject._cl.List]]&lt;/li&gt;&lt;/ol&gt;
+Conf.Reveal.Mention.Post.Days=&lt;b&gt;seven (7)&lt;/b&gt;
+Conf.CC.Who._cl=the Receiving Party's {{:3.corporateinsiders}}, {{:3.advisors.and}} 
+Agt.Term.Begin.YMD= January 8, 2014
+Agt.Term.End.YMD=December 31, 2014
+Agt.Conf.Engage.Term._Sec=[[Agt.Conf.Engage.Term.FixedDate._Sec]]
+Agt.Conf.Engage.End.YMD=&lt;b&gt;December 31, 2018&lt;/b&gt;
+Agt._Secs=[[NDA.Agt._Secs]]
+Agt.Conf.CC.Who._cl={Agt.Conf.CC.Who.Agents._cl}
+&lt;b&gt;Dispute - Mozilla form&lt;/b&gt;=-
+Dispute._Sec={Moz.Dispute._Sec}
+Moz.Dispute.Cost._Sec={Moz.Dispute.Cost.Shift.Prevailing._Sec}
+Remedy.Injunct._Sec.Xnum=on Remedies: Injunctions
+Dispute._Sec.Xnum=on Disputes
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Classen/Software License Agt Library</title>
+    <id>871</id>
+    <revision>
+      <id>7655</id>
+      <timestamp>2014-01-18T17:12:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="5924">==Comments==  
+* Do we adopt names from a conventional viewpoint - as selling by licensor -, or as a sourcing agreement by licensee?  Issue comes in Sec 10- Licensee's personnel =&gt; Licensor.  
+* Some of the names are long-ish because @hazardj is trying to make them consistent with a general classification system.  There is no strict need for this, but it will help as we use clauses from this as resources for all contracts.
+* There is some instability in the naming.  Working on it.
+* See [[NDA_Agt_Frame]] for the current trunk of the naming system.
+
+==Content==
+&lt;binder&gt;
+Classen/Software_License_Agt_Library
+&lt;/binder&gt;
+
+&lt;field&gt;
+Default_Field=&lt;ol&gt;&lt;li&gt;[[Classen/Software.Lic.Agt._Secs]]&lt;/li&gt;
+
+Def._Sec=Definitions 
+	
+Scope._Sec=Scope of Agreement 
+	
+Lic._Sec=License Grant  
+			
+Term._Sec=Term of Agreement and License 
+	
+Default._Sec=Events of Default and Remedies 
+	
+Deliv._Sec=Delivery of Deliverables—Risk of Loss—Title 
+	
+Accept._Sec=Acceptance of Software and Services 
+
+Pay._Sec=Price and Payments 
+		
+Person;Test._Sec=Personnel, Management, New Projects, and Testing 
+	
+Person.???._Sec=Involvement of Customer Employees in Licensor’s Team 
+	
+Support._Sec=Support and Maintenance Services 
+	
+IP._Sec=Proprietary Rights, Confidentiality, and Security 
+	
+Copy._Sec=Reproduction of Documentation, Object Code, and Source Code 
+
+Remedy.Indemn.IP._Sec=Patent and Other Proprietary Rights Indemnification 
+ 
+Remedy.Indemn.General._Sec=General Indemnity 
+	
+Remedy.Warranty._Sec=Warranty and Warranty Disclaimer 
+	
+Disclaim.LiabLimit._Sec=Limitation of Liability 
+	
+Term.After.Survive._Sec=Obligations that Survive Termination 
+
+Remedy.Warranty.SoftwareFix._Sec=Error Correction under Warranty 
+
+Misc.Assign.Move._Sec=Right to Move  
+
+bCov.Prep._Sec=Customer Preparation 
+
+Misc.Assign._Sec=Assignment and Transfer 
+	
+Misc.Amend._Sec=Amendments, Modifications, or Supplements 
+
+Misc.Independent._Sec=Independent Contractor 
+
+Misc.Comply._Sec=Compliance with Laws/Changes in Laws 
+
+bCov.Premises._Sec=Security, Access, and Safety Requirements
+
+???._Sec=Releases Void
+
+Dispute.Law._Sec=Governing Law and Venue 
+	
+Dispute.Proc.Meet._Sec=Non-Binding Dispute Resolution 
+	
+Dispute.Proc.Arb._Sec=Arbitration 
+	
+Misc.Waive._Sec=Waiver of Breach 
+
+DIspute.Proc.NoJury._Sec=Waiver of Right to Jury Trial 
+
+Misc.Majeure._Sec=Force Majeure
+
+Remedy.Bond._Sec=Bonds 
+	
+aCov.Continuity._Sec=Business Continuity Plan (Disaster Recovery) 
+
+Misc.Faith._Sec=Covenant of Good Faith 
+
+Misc.Time._Sec=Time Is of the Essence 
+
+Cov.Insure._Sec=Insurance 
+
+Deal.3PartySoftware._Sec=Third Party Software 
+
+Misc.3Party._Sec=Third Party Beneficiaries 
+
+Deal.Outsource._Sec=Outsourcing 
+
+Deal.Divest._Sec=Divestiture and Transition 
+
+Misc.Comply.Export._Sec=Export
+
+IP.Mark._Sec=Publicity and Use of Customer Marks 
+	
+Dispute.Service._Sec=Appointment of Agent for Service of Process
+
+ElectronicTransferOfIP._Sec=Electronic Transfer of Intellectual Property 
+
+ElectronicDocs._Sec=Electronic Documents and Transmissions 
+
+Remedy.Lien._Sec=Liens 
+
+Dispute.AttyFee._Sec=Legal Fees
+
+???._Sec=Mandatory Reference 
+
+Misc.Construe._Sec=No Construction against Drafter 
+
+Misc.Notice._Sec=Notices 
+
+Misc.Heading._Sec=Background, Enumerations, and Headings 
+
+Misc.Annex._Sec=Incorporation of Appendices and Exhibits 
+
+Misc.Sever._Sec=Severability 
+
+Misc.Counterpart._Sec=Counterparts 
+
+Misc.eSign._Sec=Facsimile Execution 
+
+Misc.Entire._Sec=Entire Agreement 
+
+&lt;b&gt;Numbers -to-&gt; Sections&lt;/b&gt;=
+1._Sec={Def._Sec}
+2._Sec={Scope._Sec}
+3._Sec={Lic._Sec}
+4._Sec={Term._Sec}
+5._Sec={Default._Sec}
+6._Sec={Deliv._Sec}
+7._Sec={Accept._Sec}
+8._Sec={Pay._Sec}
+9._Sec={Person;Test._Sec}
+10._Sec={Person.???._Sec}
+11._Sec={Support._Sec}
+12._Sec={IP._Sec}
+13._Sec={Copy._Sec}
+14._Sec={Remedy.Indemn.IP._Sec}
+15._Sec={Remedy.Indemn.General._Sec}
+16._Sec={Remedy.Warranty._Sec}
+17._Sec={Disclaim.LiabLimit._Sec}
+18._Sec={Term.After.Survive._Sec}
+19._Sec={Remedy.Warranty.SoftwareFix._Sec}
+20._Sec={Misc.Assign.Move._Sec}
+21._Sec={bCov.Prep._Sec}
+22._Sec={Misc.Assign._Sec}
+23._Sec={Misc.Amend._Sec}
+24._Sec={Misc.Independent._Sec}
+25._Sec={Misc.Comply._Sec}
+26._Sec={bCov.Premises._Sec}
+27._Sec={???._Sec}
+28._Sec={Dispute.Law._Sec}
+29._Sec={Dispute.Proc.Meet._Sec}
+30._Sec={Dispute.Proc.Arb._Sec}
+31._Sec={Misc.Waive._Sec}
+32._Sec={DIspute.Proc.NoJury._Sec}
+33._Sec={Misc.Majeure._Sec}
+34._Sec={Remedy.Bond._Sec}
+35._Sec={aCov.Continuity._Sec}
+36._Sec={Misc.Faith._Sec}
+37._Sec={Misc.Time._Sec}
+38._Sec={Cov.Insure._Sec}
+39._Sec={Deal.3PartySoftware._Sec}
+40._Sec={Misc.3Party._Sec}
+41._Sec={Deal.Outsource._Sec}
+42._Sec={Deal.Divest._Sec}
+43._Sec={Misc.Comply.Export._Sec}
+44._Sec={IP.Mark._Sec}
+45._Sec={Dispute.Service._Sec}
+46._Sec={ElectronicTransferOfIP._Sec}
+47._Sec={ElectronicDocs._Sec}
+48._Sec={Remedy.Lien._Sec}
+49._Sec={Dispute.AttyFee._Sec}
+50._Sec={Misc.Construe._Sec}
+51._Sec={Misc.Notice._Sec}
+52._Sec={Misc.Heading._Sec}
+53._Sec={Misc.Annex._Sec}
+54._Sec={Misc.Sever._Sec}
+55._Sec={Misc.Counterpart._Sec}
+56._Sec={Misc.eSign._Sec}
+57._Sec={Misc.Entire._Sec}
+
+Software.License.Agt._Secs=&lt;ol&gt;&lt;li&gt;{1._Sec}&lt;/li&gt;&lt;li&gt;{2._Sec}&lt;/li&gt;&lt;li&gt;{3._Sec}&lt;/li&gt;&lt;li&gt;{4._Sec}&lt;/li&gt;&lt;li&gt;{5._Sec}&lt;/li&gt;&lt;li&gt;{6._Sec}&lt;/li&gt;&lt;li&gt;{7._Sec}&lt;/li&gt;&lt;li&gt;{8._Sec}&lt;/li&gt;&lt;li&gt;{9._Sec}&lt;/li&gt;&lt;li&gt;{10._Sec}&lt;/li&gt;&lt;li&gt;{11._Sec}&lt;/li&gt;&lt;li&gt;{12._Sec}&lt;/li&gt;&lt;li&gt;{13._Sec}&lt;/li&gt;&lt;li&gt;{14._Sec}&lt;/li&gt;&lt;li&gt;{15._Sec}&lt;/li&gt;&lt;li&gt;{16._Sec}&lt;/li&gt;&lt;li&gt;{17._Sec}&lt;/li&gt;&lt;li&gt;{18._Sec}&lt;/li&gt;&lt;li&gt;{19._Sec}&lt;/li&gt;&lt;li&gt;{20._Sec}&lt;/li&gt;&lt;li&gt;{21._Sec}&lt;/li&gt;&lt;li&gt;{26._Sec}&lt;/li&gt;&lt;li&gt;{27._Sec}&lt;/li&gt;&lt;li&gt;{29._Sec}&lt;/li&gt;&lt;li&gt;{30._Sec}&lt;/li&gt;&lt;li&gt;{31._Sec}&lt;/li&gt;&lt;li&gt;{32._Sec}&lt;/li&gt;&lt;li&gt;{34._Sec}&lt;/li&gt;&lt;li&gt;{35._Sec}&lt;/li&gt;&lt;li&gt;{36._Sec}&lt;/li&gt;&lt;li&gt;{38._Sec}&lt;/li&gt;&lt;li&gt;{39._Sec}&lt;/li&gt;&lt;li&gt;{41._Sec}&lt;/li&gt;&lt;li&gt;{42._Sec}&lt;/li&gt;&lt;li&gt;{43._Sec}&lt;/li&gt;&lt;li&gt;{44._Sec}&lt;/li&gt;&lt;li&gt;{45._Sec}&lt;/li&gt;&lt;li&gt;{46._Sec}&lt;/li&gt;&lt;li&gt;{47._Sec}&lt;/li&gt;&lt;li&gt;{48._Sec}&lt;/li&gt;&lt;li&gt;{49._Sec}&lt;/li&gt;&lt;li&gt;{Misc._Sec}&lt;/li&gt;&lt;/ol&gt;
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Perdim Doc</title>
+    <id>899</id>
+    <revision>
+      <id>7708</id>
+      <timestamp>2014-01-23T00:13:28Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="326">&lt;binder&gt;
+Perdim Doc
+&lt;/binder&gt;
+
+&lt;field&gt;
+Model.Root={EmployeeTravel} &lt;br&gt;[[NDA.Agt._Secs]]
+EmployeeTravel={DescribeWho}&lt;br&gt;{TellHowMuch} {Purpose}
+DescribeWho=The employee traveling is {Who}
+Who={Mani Doriasamy}
+TellHowMuch={Who} will carry {HowMuch}
+HowMuch= $125
+Purpose= {Client1}
+Client1=Acme
+&lt;/field&gt;
+[[Category:CmaccDown]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Patent License Agt Frame</title>
+    <id>870</id>
+    <revision>
+      <id>7803</id>
+      <timestamp>2014-01-26T19:24:35Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="668">&lt;binder&gt;
+Patent_License_Agt_Frame
+Agt_Frame
+&lt;/binder&gt;
+
+&lt;field&gt;
+Agt._Secs=[[Ott.nih.gov/Exclusive.Patent.License.Agt._Sec.S]]
+Def._Sec=[[Ott.nih.gov/Exclusive.Patent.License.Agt.Def._Sec]]
+Misc._Sec={Agt.Misc._Sec}
+&lt;/field&gt;
+
+A very first cut.
+* Please focus on the names and order.  Like everything else, they can be forked.  But it would be really helpful to have good names from the start.
+* I suggest that definitions should move to the back.  (Part of the principle of increasing banality.)  In the front, there should be parameters - deal points like patent description, price, time, quantity, special conditions.  They can be in a section or even in the prologue.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Disclaim.Agency. Sec</title>
+    <id>697</id>
+    <revision>
+      <id>7315</id>
+      <timestamp>2014-01-10T06:13:59Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="400">&lt;u&gt;[[Agt.Disclaim.Agency._Sec|No Agency, Joint Venture{q} or Partnership]]&lt;/u&gt;.  Nothing in this Agreement and no action taken by the parties hereto pursuant to this Agreement shall create a relationship of principal and agent or constitute a partnership or joint venture of any kind between the parties.  Except as may otherwise be expressly provided, a party has no authority to bind another party.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Dispute.Law. Sec</title>
+    <id>686</id>
+    <revision>
+      <id>6550</id>
+      <timestamp>2013-12-29T22:57:21Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="351">&lt;u&gt;Governing Law&lt;/u&gt;.  This Agreement shall be construed in accordance with and governed by the laws of {Dispute.Law.State.the}, without regard to its conflicts of laws provisions and as if all the facts and events relating to the parties and the negotiation, signature{q} and performance of this Agreement took place exclusively in such jurisdiction.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Counterpart. Sec</title>
+    <id>692</id>
+    <revision>
+      <id>7630</id>
+      <timestamp>2014-01-18T16:16:14Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="40">[[Model_NVCA.Agt.Misc.Counterpart._Sec]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Com SeriesSeed/R03.PreStInv.Agt.Misc.Delay. Sec</title>
+    <id>641</id>
+    <revision>
+      <id>6570</id>
+      <timestamp>2013-12-29T23:45:48Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="927">&lt;u&gt;Delays or Omissions&lt;/u&gt;.  No delay or omission to exercise any right, power or remedy accruing to any party under this Agreement, upon any breach or default of any other party under this Agreement, shall impair any such right, power{q} or remedy of such non-breaching or non-defaulting party nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of or in any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring.  Any waiver, permit, consent or approval of any kind or character on the part of any party of any breach or default under this Agreement, or any waiver on the part of any party of any provisions or conditions of this Agreement, must be in writing and shall be effective only to the extent specifically set forth in such writing.</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Disclaim.Agency. Sec</title>
+    <id>624</id>
+    <revision>
+      <id>6577</id>
+      <timestamp>2013-12-29T23:54:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="29">{{:Agt.Disclaim.Agency._Sec}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Disclaim.License. Sec</title>
+    <id>623</id>
+    <revision>
+      <id>6253</id>
+      <timestamp>2013-12-15T06:16:44Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[SandHill/NDA.Agt.Disclaim.License]] to [[SandHill/NDA.Agt.Disclaim.License. Sec]]</comment>
+      <text xml:space="preserve" bytes="199">&lt;u&gt;No License&lt;/u&gt;.  Nothing in this Agreement shall be interpreted expressly or impliedly as granting the Receiving Party any license or other rights, except as expressly set forth in this Agreement.</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Dispute.Law. Sec</title>
+    <id>622</id>
+    <revision>
+      <id>6547</id>
+      <timestamp>2013-12-29T22:54:03Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="25">{{:Agt.Dispute.Law._Sec}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Misc.Counterpart. Sec</title>
+    <id>625</id>
+    <revision>
+      <id>6565</id>
+      <timestamp>2013-12-29T23:35:43Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="30">{{:Agt.Misc.Counterpart._Sec}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Misc.Sever. Sec</title>
+    <id>628</id>
+    <revision>
+      <id>6259</id>
+      <timestamp>2013-12-15T06:22:09Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;&lt;u&gt;Severability&lt;/u&gt;.  Whenever possible, each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law, but if any prov...&quot;</comment>
+      <text xml:space="preserve" bytes="487">&lt;u&gt;Severability&lt;/u&gt;.  Whenever possible, each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law, but if any provision of this Agreement shall be deemed prohibited or invalid under such applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, and such prohibition or invalidity shall not invalidate the remainder of such provision or the other provisions of this Agreement.</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt. Sec.S</title>
+    <id>636</id>
+    <revision>
+      <id>6355</id>
+      <timestamp>2013-12-18T00:47:17Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="329">&lt;u&gt;Miscellaneous&lt;/u&gt;. &lt;ol&gt;&lt;li&gt;
+{Dispute.Law}&lt;/li&gt;&lt;li&gt;
+{Dispute.Forum}&lt;/li&gt;&lt;li&gt;
+{Disclaim.License}&lt;/li&gt;&lt;li&gt;
+{Disclaim.Agency}&lt;/li&gt;&lt;li&gt;
+{Misc.Counterpart}&lt;/li&gt;&lt;li&gt;
+{Misc.Amend}&lt;/li&gt;&lt;li&gt;
+{Misc.Delay}&lt;/li&gt;&lt;li&gt;
+{Misc.Entire}&lt;/li&gt;&lt;li&gt;
+{Misc.Sever}&lt;/li&gt;&lt;li&gt;
+{Misc.Assign._Sec}&lt;/li&gt;&lt;li&gt;
+{Misc.BindAmong._Sec}&lt;/li&gt;&lt;/ol&gt;
+[[Category:Sec.S]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>SandHill/NDA.Agt.Misc.Assign.RequiresConsent. Sec</title>
+    <id>629</id>
+    <revision>
+      <id>6563</id>
+      <timestamp>2013-12-29T23:34:20Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="34">{{:Agt.Misc.Assign.Requires._Sec}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Agt.Sec</title>
+    <id>325</id>
+    <revision>
+      <id>3145</id>
+      <timestamp>2013-02-17T16:02:01Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="88">&lt;u&gt;[[{{{1|{{PAGENAMEE}}}}}|{{{2|{{PAGENAME}}}}}]]&lt;/u&gt;.&amp;nbsp; 
+[[Category:Model.Agt.Sec]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Agt.Prologue.Heading</title>
+    <id>95</id>
+    <revision>
+      <id>5232</id>
+      <timestamp>2013-10-09T18:08:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="89">{Agt.Title}&lt;br/&gt;As of: {Agt.Effective.YMD} &lt;br/&gt;between {Pcpl.ID.Name} and {Cttr.ID.Name}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Agt.Prologue.ThisAgreement</title>
+    <id>96</id>
+    <revision>
+      <id>6148</id>
+      <timestamp>2013-12-14T16:14:54Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="187">This {Agt.Title} (this &quot;Agreement&quot;) is entered into as of {Agt.Effective.YMD} by and between {Pcpl.ID.N,E,A} (&quot;{Pcpl.-}&quot;) and {Cttr.ID.N,E,A} (&quot;{Cttr.-}&quot;) (collectively, the &quot;{parties}&quot;).</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Agt.Prologue.NowTherefore</title>
+    <id>103</id>
+    <revision>
+      <id>4360</id>
+      <timestamp>2013-03-16T23:28:32Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="107">NOW THEREFORE, in consideration of the premises and promises of this Agreement, the {parties} hereby agree:</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Agt.Signature.Witness</title>
+    <id>105</id>
+    <revision>
+      <id>5233</id>
+      <timestamp>2013-10-09T18:08:43Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="89">IN WITNESS WHEREOF, the {parties} have executed this Agreement as of {Agt.Effective.YMD}.</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.power.or</title>
+    <id>715</id>
+    <revision>
+      <id>6615</id>
+      <timestamp>2013-12-30T03:14:45Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;right, power{q} or privilege&quot;</comment>
+      <text xml:space="preserve" bytes="28">right, power{q} or privilege</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Notice.Deliv.Fax/Email. cl</title>
+    <id>709</id>
+    <revision>
+      <id>6602</id>
+      <timestamp>2013-12-30T01:48:18Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;when sent, if sent by facsimile or electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next bus...&quot;</comment>
+      <text xml:space="preserve" bytes="187">when sent, if sent by facsimile or electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next business day</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Notice.Deliv.Mail. cl</title>
+    <id>710</id>
+    <revision>
+      <id>6603</id>
+      <timestamp>2013-12-30T01:49:15Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid&quot;</comment>
+      <text xml:space="preserve" bytes="111">five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Notice.Deliv.OverNight. cl</title>
+    <id>711</id>
+    <revision>
+      <id>6604</id>
+      <timestamp>2013-12-30T01:49:58Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt&quot;</comment>
+      <text xml:space="preserve" bytes="175">one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Misc.Notice.Deliv.Personal. cl</title>
+    <id>708</id>
+    <revision>
+      <id>6601</id>
+      <timestamp>2013-12-30T01:47:16Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;personal delivery to the party to be notified, as evidenced by a reliable contemporaneous record&quot;</comment>
+      <text xml:space="preserve" bytes="96">personal delivery to the party to be notified, as evidenced by a reliable contemporaneous record</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.agent.1</title>
+    <id>660</id>
+    <revision>
+      <id>6437</id>
+      <timestamp>2013-12-22T01:35:00Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="42">officer, director, employee, legal advisor</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.agent.3</title>
+    <id>661</id>
+    <revision>
+      <id>6436</id>
+      <timestamp>2013-12-22T01:34:23Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;financial advisor&quot;</comment>
+      <text xml:space="preserve" bytes="17">financial advisor</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.agent.or</title>
+    <id>768</id>
+    <revision>
+      <id>7001</id>
+      <timestamp>2014-01-03T15:09:43Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;{{:3.agent.1}}{q} or {{:3.agent.3}} [[Category:3]]&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{:3.agent.1}}{q} or {{:3.agent.3}}
+[[Category:3]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.agents.1</title>
+    <id>655</id>
+    <revision>
+      <id>6458</id>
+      <timestamp>2013-12-22T02:13:54Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="46">officers, directors, employees, legal advisors</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.agents.3</title>
+    <id>656</id>
+    <revision>
+      <id>6441</id>
+      <timestamp>2013-12-22T01:39:13Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="18">financial advisors</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Def.Disclosing Party</title>
+    <id>728</id>
+    <revision>
+      <id>7523</id>
+      <timestamp>2014-01-12T16:07:24Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="446">&quot;[[Agt.Def.Disclosing_Party|{DP}]]&quot; means a party who imparts Confidential Information to another party under the terms of this Agreement.  In the case of mutual disclosures or other multilateral imparting of Confidential Information, with respect to each element of Confidential Information, the party disclosing the Confidential Information is {DP.the} and the party receiving the Confidential Information is {RP.the}.
+[[Category:Core.Agt.Def]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Def.Receiving Party</title>
+    <id>729</id>
+    <revision>
+      <id>7525</id>
+      <timestamp>2014-01-12T16:09:39Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="446">&quot;[[Agt.Def.Receiving_Party|{RP}]]&quot; means a party who receives Confidential Information from another party under the terms of this Agreement.  In the case of mutual disclosures or other multilateral revealing of Confidential Information, with respect to each element of Confidential Information the party revealing the Confidential Information is {DP.the} and the party receiving the Confidential Information is {RP.the}.
+[[Category:Core.Agt.Def]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.advisors.and</title>
+    <id>846</id>
+    <revision>
+      <id>7467</id>
+      <timestamp>2014-01-12T05:46:28Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;lawyers, accountants{q} and other professional advisors&quot;</comment>
+      <text xml:space="preserve" bytes="55">lawyers, accountants{q} and other professional advisors</text>
+    </revision>
+  </page>
+  <page>
+    <title>3.corporateinsiders</title>
+    <id>844</id>
+    <revision>
+      <id>7465</id>
+      <timestamp>2014-01-12T05:42:31Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;officers, directors, employees&quot;</comment>
+      <text xml:space="preserve" bytes="30">officers, directors, employees</text>
+    </revision>
+  </page>
+</mediawiki>
