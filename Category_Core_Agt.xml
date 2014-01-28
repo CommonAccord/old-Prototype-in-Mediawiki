@@ -26,6 +26,438 @@
     </namespaces>
   </siteinfo>
   <page>
+    <title>Model Employ Agt Form</title>
+    <id>345</id>
+    <revision>
+      <id>7945</id>
+      <timestamp>2014-01-27T23:31:13Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="144">&lt;binder&gt;
+Relationship_Acme_Quake
+Model_Employ_Agt_Outline
+Model_Agt_Frame
+Model_Agt_Lexicon
+Model_Agt_Headings
+&lt;/binder&gt;
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt. Att.S</title>
+    <id>344</id>
+    <revision>
+      <id>3523</id>
+      <timestamp>2013-03-01T23:49:35Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="153">&lt;b&gt;Attachments&lt;/b&gt;.&lt;ul&gt;&lt;li&gt;{Sch_Comp_CashBonus}&lt;/li&gt;&lt;li&gt;{Exh_Term_TerminationCertificate}&lt;/li&gt;&lt;li&gt;{Exh_IP_PriorRights}&lt;/li&gt;&lt;/ul&gt;
+
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt. Sec.S</title>
+    <id>343</id>
+    <revision>
+      <id>7952</id>
+      <timestamp>2014-01-27T23:50:36Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="284">&lt;ol&gt;&lt;li&gt;{Engage._Sec}&lt;/li&gt;&lt;li&gt;{Comp._Sec}&lt;/li&gt;&lt;li&gt;{Benefit._Sec}&lt;/li&gt;&lt;li&gt;{IP._Sec}&lt;/li&gt;&lt;li&gt;{Conf._Sec}&lt;/li&gt;&lt;li&gt;{Unfair._Sec}&lt;/li&gt;&lt;li&gt;{Indemn._Sec}&lt;/li&gt;&lt;li&gt;{Term._Sec}&lt;/li&gt;&lt;li&gt;{Rep._Sec}&lt;/li&gt;&lt;li&gt;{Dispute._Sec}&lt;/li&gt;&lt;li&gt;{Remedy._Sec}&lt;/li&gt;&lt;li&gt;{Misc._Sec}&lt;/li&gt;&lt;/ol&gt;
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Appoint. Sec</title>
+    <id>374</id>
+    <revision>
+      <id>3525</id>
+      <timestamp>2013-03-01T23:50:16Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="387">{{Agt.Sec|Model.Employ.Agt.Appoint._Sec|Appointment; Duties}}&lt;ol&gt;&lt;li&gt;{Engage.WorkPlace._Sec}&lt;/li&gt;&lt;li&gt;{Engage.Duty._Sec}&lt;/li&gt;&lt;li&gt;{Engage.Authority._Sec}&lt;/li&gt;&lt;li&gt;{Engage.SkillsUnique._Sec}&lt;/li&gt;&lt;li&gt;{Engage.WorkPolicy._Sec}&lt;/li&gt;&lt;li&gt;{Engage.OutsideBusiness._Sec}&lt;/li&gt;&lt;li&gt;{Engage.TimeAndEffort._Sec}&lt;/li&gt;&lt;li&gt;{Engage.Conduct._Sec}&lt;/li&gt;&lt;li&gt;{Engage.Consult._Sec}&lt;/li&gt;&lt;/ol&gt;
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Benefit. Sec</title>
+    <id>367</id>
+    <revision>
+      <id>3526</id>
+      <timestamp>2013-03-01T23:50:43Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="297">{{Agt.Sec|Model.Employ.Agt.Benefit._Sec|Benefits}}
+#{Benefit.AdditionalBenefits._Sec} 
+#{Benefit.Vacation._Sec} 
+#{Benefit.BoardMembership._Sec} 
+#{Benefit.AutomobileAllowance._Sec} 
+#{Benefit.LifeInsurance._Sec}
+#{Benefit.MovingExpenses._Sec}
+#{Benefit.Reimbursement._Sec}
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Comp. Sec</title>
+    <id>346</id>
+    <revision>
+      <id>3527</id>
+      <timestamp>2013-03-01T23:51:05Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="328">{{Agt.Sec|Model.Employ.Agt.Comp._Sec|Compensation}}
+#{Comp.Salary.Base._Sec}
+#{Comp.Salary.Adjustment._Sec}
+#{Comp.Incentive._Sec}
+#{Comp.Deferred._Sec}
+#{Comp.Commission._Sec} 
+#{Comp.Royalties._Sec} 
+#{Comp.Option.Stock._Sec} 
+#{Comp.Bonus.Stock._Sec} 
+#{Comp.Bonus.Cash._Sec} 
+#{Comp.RepayExcess._Sec}
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Indemn. Sec</title>
+    <id>375</id>
+    <revision>
+      <id>3528</id>
+      <timestamp>2013-03-01T23:51:23Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="173">{{Agt.Sec|Model.Employ.Agt.Indemn._Sec|Indemnification}}
+#{Indemn.By.Epyer._Sec}
+#{Indemn.By.Epyee._Sec}
+#{Indemn.Insurance._Sec}
+#{Indemn.Bond._Sec}
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.IP. Sec</title>
+    <id>368</id>
+    <revision>
+      <id>3561</id>
+      <timestamp>2013-03-02T04:51:29Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="149">{{Agt.Sec|Model.Employ.Agt.IP._Sec|Intangible Property}}
+#{IP.Owner._Sec}
+#{IP.HandlingAndReturn._Sec}
+#{IP.Epyee.Image._Sec}
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Misc. Sec</title>
+    <id>373</id>
+    <revision>
+      <id>7951</id>
+      <timestamp>2014-01-27T23:48:03Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="203">{{Agt.Sec|Model.Employ.Agt.Misc._Sec|General Provisions}}
+#{Misc.Notice._Sec}
+#{Misc.Sever._Sec}
+#{Misc.Successor._Sec}
+#{Dispute.Cost._Sec}
+#{Misc.Amend._Sec}
+#{Misc.3Party._Sec}
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Remedy. Sec</title>
+    <id>372</id>
+    <revision>
+      <id>3531</id>
+      <timestamp>2013-03-01T23:52:54Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="155">{{Agt.Sec|Model.Employ.Agt.Remedy._Sec|Remedies}}
+#{Remedy.Injunct._Sec}
+#{Remedy.Dam.Liquid.Emyer._Sec}
+#{Remedy.Dam.Liquid.Emyee}
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model Employ Agt Outline</title>
+    <id>395</id>
+    <revision>
+      <id>3610</id>
+      <timestamp>2013-03-03T00:30:28Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="626">&lt;field&gt;
+
+Pcpl.Handle=Employer
+
+Cttr.Handle=Employee
+
+Agt._Sec.S={{:Model.Employ.Agt._Sec.S}}
+Engage._Sec={{:Model.Employ.Agt.Appoint._Sec}} 
+Benefit._Sec={{:Model.Employ.Agt.Benefit._Sec}}
+Comp._Sec={{:Model.Employ.Agt.Comp._Sec}}
+IP._Sec={{:Model.Employ.Agt.IP._Sec}}
+Conf._Sec={{:Model.Agt.Conf._Sec}}
+Indemn._Sec={{:Model.Employ.Agt.Indemn._Sec}}
+Unfair._Sec={{:Model.Employ.Agt.Unfair._Sec}}
+Term._Sec={{:Model.Employ.Agt.Term._Sec}}
+Dispute._Sec={{:Model.Employ.Agt.Dispute._Sec}}
+Remedy._Sec={{:Model.Employ.Agt.Remedy._Sec}}
+Misc._Sec={{:Model.Employ.Agt.Misc._Sec}}
+Agt.Attachment={{:Model.Employ.Agt._Att.S}}
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Meta:ListsOfLists Experiment</title>
+    <id>394</id>
+    <revision>
+      <id>4621</id>
+      <timestamp>2013-03-22T22:20:38Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Outline with Web-Scraping and Abbreviations */</comment>
+      <text xml:space="preserve" bytes="5347">==What a Deal Outline Looks Like==
+
+*/Deal/
+**Pcpl=[[User:JH]]
+***Sign.Time=March 2, 2013
+**Cttr=[[User:MarcD]]
+***Sign.Time=March 3, 2013
+**Agt.Date.Effective=May 1, 2012
+**Acceptance.Lapse.Period=thirty (30) days
+*/Choice/
+**Dispute=[[Org_Mozilla_Consult_Agt_Dispute_Arb_Library]]
+***Forum=[[Ct_UStCA_SantaClara]]
+***Cost=[[Dispute_Cost_Mutual]]
+*/Form/
+**/Text/=[[Org_Mozilla_Consult_Agt_Library]]
+**/Outline/=[[Org_Mozilla_Consult_Agt_Outline]]
+**/Frame/=[[Model_Agt_Frame]]
+
+==Outline with Web-Scraping and Abbreviations==
+
+The co-founder, Edwards, is assured that he has the same deal as the founder, except as specified.
+
+GUID: 12345
+
+AKA = Acme_StockOption_Grant_02
+/DealPoints/
+[Optionee.*] = [User:Edwards,_Edward_S]
+Option.Expiration.Date = January 31, 2017
+Option.Quantity = Two Hundred Thousand (200,000)
+Option.Vest.Cliff.% = six percent (6%)
+/Base/
+[*] = [Acme_StockOption_Grant_01]
+
+
+
+Making up a lending situation.
+
+GUID: 12346  
+
+#AKA = 1stNat_Acme_2013-01_FixedRate
+#/DealPoints/
+##Agt.Date = March 14, 2013
+##Principal.Amount.$ = $6,000,000
+##RepWar.Brwr.Environ.Except._Sec=&lt;u&gt;Environmental&lt;/u&gt;.  {Brwr.-} has been informed by the California Attorney General of an inquiry regarding an underground tank at {Brwr.Irvine.Addr.1,2}.
+#/Parties/
+##[Lndr.*] = [User:1stNational_Mortgage]
+##[Brwr.*] = [User:Acme_Inc]
+#/Fit/
+##[*] = [Commercial_Fixed_Rate]
+##[Lndr.Branch.*] = [1stNat_Branch_LosAngeles]
+##[*] = [SecuredBy_RE_Manufacturing]
+##[*] = [Law_UStCA]
+##[Dispute.*] = [{h:CmA}Commercial_Arb_And_Mediation]
+#/Form/
+##[*] = [http:ilta.org/cma/Commercial_Loan_REV-2013-01-15]
+#/Meta/
+##h:CmA=http://beta.commonaccord.org/wiki/
+
+Note: Abbreviations can be done in the List using the {Token} format.  Abbreviations &lt;i&gt;between&lt;/i&gt; &quot;[&quot; and &quot;]&quot; are evaluated &lt;i&gt;before&lt;/i&gt; any others.
+
+==Expanding a List is like Rendering==
+Expanding an Outline into a NameSpace is fundamentally similar to the method of rendering a document.  What follows in this page is:
+* Outline we will expand into a NameSpace
+* A mockup using the existing MW plug for Fields to show how this expands. (Push render!)
+* Some infrastructure fudge to make the mockup work right. (Ignore!)
+Note that once all the replacements have been made at the List level (there are no &quot;{&quot;s on the left side), then use this rendering as our Field list to render the document.  Two passes, one at the List level, the next to render the doc.  Similar to code as data.  Or, to put it another way, a single mental map works at both levels, so fluency at either level is good for both.  
+
+Note that for this demo, the &quot;{}&quot; means &quot;[]&quot; and vice-versa.
+
+==CmA Lists are Outlines==
+
+&lt;b&gt;We want to write as outlines&lt;/b&gt;
+
+*List1 AKA=ID_001
+**Def._Sec=&quot;Simple&quot; means good.
+**/Form/={List2}
+**Deal._Sec=We will do the right thing.
+**/Envir/={OurDocEnvironment}
+*List2  AKA=ID_002
+**Doc.Body=Title&lt;ol&gt;&lt;li&gt;[Agt._Sec.S]&lt;/li&gt;&lt;/ol&gt;
+**Agt._Sec.S=&lt;ol&gt;&lt;li&gt;[Def._Sec]&lt;/li&gt;&lt;li&gt;[Deal._Sec]&lt;/li&gt;&lt;/ol&gt;
+**/text/={OurForm_Emp}
+*OurDocEnvironment  AKA=ID_003
+**{OurForm_Emp}={ID_23432}
+
+  
+&lt;binder&gt;
+Meta:ListsOfLists_Experiment
+&lt;/binder&gt;
+
+
+&lt;field&gt;
+List1=Def._Sec&amp;#61;&quot;Simple&quot; means good.&lt;br/&gt;/Form/&amp;#61;{List2}&lt;br/&gt;Deal._Sec=We will do the right thing.&lt;br/&gt;/Envir/&amp;#61;{OurDocEnvironment_Index}
+&lt;b&gt;Supporting Lists&lt;/b&gt;=-
+List2=Doc.Body=Title&lt;ol&gt;&lt;li&gt;[Agt._Sec.S]&lt;/li&gt;&lt;/ol&gt;&lt;br/&gt;Agt._Sec.S=&lt;ol&gt;&lt;li&gt;[Def._Sec]&lt;/li&gt;&lt;li&gt;[Deal._Sec]&lt;/li&gt;&lt;/ol&gt;&lt;br/&gt;/Text/&amp;#61;{OurForm_Emp}
+&lt;b&gt;OurDocEnvironment_Index&lt;/b&gt;=treat the following as if they were listings in a list called OurDocEnvironment_Index
+OurForm_Emp={ID_23432}
+&lt;/field&gt;
+
+
+
+Kludge to get the above working. 
+
+I use a number of tricks here. Focus should be on the above.
+This is the third list. 
+&lt;field&gt;
+Doc.Body=&lt;b&gt;The expanded List1:&lt;/b&gt;&lt;br/&gt;{List1}
+ID_23432=[[Model_Employ_Agt_Outline]]
+&lt;/field&gt;
+
+==CmA makes CmA==
+
+There are two main arguments for a code-as-data approach:  
+# It is consistent.  If you can understand how to make a doc, you know how to make a tree of docs, portfolio or working environment. 
+# It can be easily distributed, shared, reimplemented, etc.
+
+Here's how to make CmA make CmA (dixit Lun):
+
+The MW app can be understood as:
+
+A bunch of:
+
+*GUID=StringOfText
+
+A default GUID defines the URL paths:
+
+*G:1
+**MyForm=[[G:004]]
+**MyDoc=[[G:003]]
+**Main_Page=[[G:002]]
+*G:002
+**V:03=[[G:007]] (T=13-03-04:0638)
+**V:02=[[G:006]] (T=13-03-04:0600)
+**V:01=[[G:005]] (T=13-03-04:0500)
+*G:003
+**V:03=[[G:010]]  (T=13-03-04:0703)
+**V:02=[[G:009]] (T=13-03-04:0702)
+**V:01=[[G:008]] (T=13-03-04:0701)
+etc...
+*G:005=First try at Main_Page!!
+*G:006=Second try at Main_Page!!
+*G:007=Third try at Main_Page!!!
+*G:008=First try at MyDoc!!
+*G:009=Second try at MyDoc!!
+*G:010=Third try at MyDoc!!!
+etc.
+
+===API to a GUID===
+MW can be understood to have (for each URL) an API that is:
+*Read (gives text with markup expanded)
+*Edit (raw text)
+*Save (write to a new GUID, top-off the URL-Index of the URL with the new GUID
+*History (give URL-Index with some info expanded)
+
+CmA adds:
+* Render -- like Read but with {Tokens} expanded.
+
+One could add a new command:
+* Top-Off -- Add at the top of the fields list some new entries.  In the Outline form described above, this would be:
+*/Write.003/  /T=13-03-04:0701)/
+**Pcpl.Sign.Date=March 4, 2013
+**Cttr.Sign.Date=March 3, 2013
+
+Query to all -- would this be adequate to do the whole thing?
+
+[[Category:Meta]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Employ Agt Frame</title>
+    <id>927</id>
+    <revision>
+      <id>7958</id>
+      <timestamp>2014-01-28T00:10:28Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="734">&lt;binder&gt;
+Employ Agt Frame
+Relationship_Acme_Quake
+Agt_Frame
+&lt;/binder&gt;
+
+&lt;field&gt;
+Pcpl.Handle=Employer
+Cttr.Handle=Employee
+Agt._Secs=[[Model.Employ.Agt._Sec.S]]
+Engage._Sec=[[Model.Employ.Agt.Appoint._Sec]] 
+Benefit._Sec=[[Model.Employ.Agt.Benefit._Sec]]
+Comp._Sec=[[Model.Employ.Agt.Comp._Sec]]
+IP._Sec=[[Model.Employ.Agt.IP._Sec]]
+Conf._Sec=[[Model.Agt.Conf._Sec]]
+Indemn._Sec=[[Model.Employ.Agt.Indemn._Sec]]
+Unfair._Sec=[[Model.Employ.Agt.Unfair._Sec]]
+Term._Sec=[[Model.Employ.Agt.Term._Sec]]
+Rep._Sec=[[Model.Employ.Agt.Rep._Sec]]
+Dispute._Sec=[[Agt.Dispute._Sec]]
+Remedy._Sec=[[Model.Employ.Agt.Remedy._Sec]]
+Misc._Sec=[[Model.Employ.Agt.Misc._Sec]]
+Agt.Attachment=[[Model.Employ.Agt._Att.S]]
+&lt;/field&gt;
+
+
+
+
+[[Category:Employ.Agt]]</text>
+    </revision>
+  </page>
+  <page>
     <title>RP</title>
     <id>651</id>
     <revision>
@@ -473,15 +905,18 @@ Client1=Acme
     <title>Agt Frame</title>
     <id>674</id>
     <revision>
-      <id>7815</id>
-      <timestamp>2014-01-27T06:00:45Z</timestamp>
+      <id>7966</id>
+      <timestamp>2014-01-28T00:43:13Z</timestamp>
       <contributor>
         <username>JH</username>
         <id>2</id>
       </contributor>
-      <text xml:space="preserve" bytes="269">Click on &quot;Render,&quot; just below to see the full framework, rendered out.
+      <text xml:space="preserve" bytes="449">Click on &quot;Render,&quot; just below to see the full framework, rendered out.
 
-Click on &quot;Discussion&quot; just above.
+Click on &quot;Discussion&quot; just above.  See also:
+* [[NDA_Agt_Frame]] (fully populated)
+* [[Patent_License_Agt_Frame]]  (borrowing from NIH, headings and content)
+* [[Employ_Agt_Frame]]  (headings ready for population)
 
 &lt;binder&gt;
 Relationship_Acme_Quake
@@ -558,15 +993,14 @@ Default_Field=&lt;ol&gt;&lt;li&gt;{Agt._Secs}&lt;/li&gt;&lt;/ol&gt;
     <title>Patent License Agt Frame</title>
     <id>870</id>
     <revision>
-      <id>7809</id>
-      <timestamp>2014-01-26T23:52:16Z</timestamp>
+      <id>7942</id>
+      <timestamp>2014-01-27T18:55:18Z</timestamp>
       <contributor>
         <username>JH</username>
         <id>2</id>
       </contributor>
-      <text xml:space="preserve" bytes="735">&lt;binder&gt;
+      <text xml:space="preserve" bytes="926">&lt;binder&gt;
 Patent_License_Agt_Frame
-Ott.nih.gov/Exclusive Patent License Agt Library
 Agt_Frame
 &lt;/binder&gt;
 
@@ -579,7 +1013,8 @@ Lsor.-=Licensor
 
 A very first cut.
 * Please focus on the names and order.  Like everything else, they can be forked.  But it would be really helpful to have good names from the start.
-* I suggest that definitions should move to the back.  (Part of the principle of increasing banality.)  In the front, there should be parameters - deal points like patent description, price, time, quantity, special conditions.  They can be in a section or even in the prologue.</text>
+* I suggest that definitions should move to the back.  (Part of the principle of increasing banality.)  In the front, there should be parameters - deal points like patent description, price, time, quantity, special conditions.  They can be in a section or even in the prologue.
+*  The Frame is populated with an outline from the NIH model docs here.  It is populated with text at [[NIH_Patent_License_Agt_Frame]].  The Misc provisions are from the Core and need to be reviewed and dove-tailed with the NIH provisions.</text>
     </revision>
   </page>
   <page>
@@ -952,6 +1387,31 @@ Misc.Entire._Sec=Entire Agreement 
 57._Sec={Misc.Entire._Sec}
 
 Software.License.Agt._Secs=&lt;ol&gt;&lt;li&gt;{1._Sec}&lt;/li&gt;&lt;li&gt;{2._Sec}&lt;/li&gt;&lt;li&gt;{3._Sec}&lt;/li&gt;&lt;li&gt;{4._Sec}&lt;/li&gt;&lt;li&gt;{5._Sec}&lt;/li&gt;&lt;li&gt;{6._Sec}&lt;/li&gt;&lt;li&gt;{7._Sec}&lt;/li&gt;&lt;li&gt;{8._Sec}&lt;/li&gt;&lt;li&gt;{9._Sec}&lt;/li&gt;&lt;li&gt;{10._Sec}&lt;/li&gt;&lt;li&gt;{11._Sec}&lt;/li&gt;&lt;li&gt;{12._Sec}&lt;/li&gt;&lt;li&gt;{13._Sec}&lt;/li&gt;&lt;li&gt;{14._Sec}&lt;/li&gt;&lt;li&gt;{15._Sec}&lt;/li&gt;&lt;li&gt;{16._Sec}&lt;/li&gt;&lt;li&gt;{17._Sec}&lt;/li&gt;&lt;li&gt;{18._Sec}&lt;/li&gt;&lt;li&gt;{19._Sec}&lt;/li&gt;&lt;li&gt;{20._Sec}&lt;/li&gt;&lt;li&gt;{21._Sec}&lt;/li&gt;&lt;li&gt;{26._Sec}&lt;/li&gt;&lt;li&gt;{27._Sec}&lt;/li&gt;&lt;li&gt;{29._Sec}&lt;/li&gt;&lt;li&gt;{30._Sec}&lt;/li&gt;&lt;li&gt;{31._Sec}&lt;/li&gt;&lt;li&gt;{32._Sec}&lt;/li&gt;&lt;li&gt;{34._Sec}&lt;/li&gt;&lt;li&gt;{35._Sec}&lt;/li&gt;&lt;li&gt;{36._Sec}&lt;/li&gt;&lt;li&gt;{38._Sec}&lt;/li&gt;&lt;li&gt;{39._Sec}&lt;/li&gt;&lt;li&gt;{41._Sec}&lt;/li&gt;&lt;li&gt;{42._Sec}&lt;/li&gt;&lt;li&gt;{43._Sec}&lt;/li&gt;&lt;li&gt;{44._Sec}&lt;/li&gt;&lt;li&gt;{45._Sec}&lt;/li&gt;&lt;li&gt;{46._Sec}&lt;/li&gt;&lt;li&gt;{47._Sec}&lt;/li&gt;&lt;li&gt;{48._Sec}&lt;/li&gt;&lt;li&gt;{49._Sec}&lt;/li&gt;&lt;li&gt;{Misc._Sec}&lt;/li&gt;&lt;/ol&gt;
+&lt;/field&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>NIH Patent License Agt Frame</title>
+    <id>925</id>
+    <revision>
+      <id>7933</id>
+      <timestamp>2014-01-27T17:37:37Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;&lt;binder&gt; Patent_License_Agt_Frame Ott.nih.gov/Exclusive Patent License Agt Library Agt_Frame &lt;/binder&gt;  &lt;field&gt;  Agt._Secs=[[Ott.nih.gov/Exclusive.Patent.License.Agt._Sec.S]] Mis...&quot;</comment>
+      <text xml:space="preserve" bytes="227">&lt;binder&gt;
+Patent_License_Agt_Frame
+Ott.nih.gov/Exclusive Patent License Agt Library
+Agt_Frame
+&lt;/binder&gt;
+
+&lt;field&gt;
+
+Agt._Secs=[[Ott.nih.gov/Exclusive.Patent.License.Agt._Sec.S]]
+Misc._Sec=[[Agt.Misc._Sec]]
+Lsor.-=Licensor
 &lt;/field&gt;</text>
     </revision>
   </page>
@@ -2653,6 +3113,37 @@ Relationship_Acme_Quake
     </revision>
   </page>
   <page>
+    <title>Model.Employ.Agt.Rep. Sec</title>
+    <id>928</id>
+    <revision>
+      <id>7955</id>
+      <timestamp>2014-01-27T23:53:13Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="105">&lt;u&gt;[[Model.Employ.Agt.Rep._Sec|Employee Representations]]&lt;/u&gt;.
+#{RepWar.Epyee._Sec}
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Agt.Dispute. Sec</title>
+    <id>930</id>
+    <revision>
+      <id>7963</id>
+      <timestamp>2014-01-28T00:21:34Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>moved [[Dispute. Sec]] to [[Agt.Dispute. Sec]]</comment>
+      <text xml:space="preserve" bytes="197">&lt;u&gt;Disputes&lt;/u&gt;.&lt;ol&gt;&lt;li&gt;{Dispute.Law._Sec}&lt;/li&gt;&lt;li&gt;{Dispute.Escalate._Sec}&lt;/li&gt;&lt;li&gt;{Dispute.Proc._Sec}&lt;/li&gt;&lt;li&gt;{Dispute.Forum._Sec}&lt;/li&gt;&lt;li&gt;{Dispute.JuryWaiver._Sec}&lt;/li&gt;&lt;/ol&gt;
+[[Category:Core.Agt]]</text>
+    </revision>
+  </page>
+  <page>
     <title>Agt.Def.Termination Date</title>
     <id>725</id>
     <revision>
@@ -2684,13 +3175,13 @@ Relationship_Acme_Quake
     <title>Agt.Def.Disclosing Party</title>
     <id>728</id>
     <revision>
-      <id>7523</id>
-      <timestamp>2014-01-12T16:07:24Z</timestamp>
+      <id>7931</id>
+      <timestamp>2014-01-27T17:31:53Z</timestamp>
       <contributor>
         <username>JH</username>
         <id>2</id>
       </contributor>
-      <text xml:space="preserve" bytes="446">&quot;[[Agt.Def.Disclosing_Party|{DP}]]&quot; means a party who imparts Confidential Information to another party under the terms of this Agreement.  In the case of mutual disclosures or other multilateral imparting of Confidential Information, with respect to each element of Confidential Information, the party disclosing the Confidential Information is {DP.the} and the party receiving the Confidential Information is {RP.the}.
+      <text xml:space="preserve" bytes="464">&quot;[[Agt.Def.Disclosing_Party|Disclosing Party]]&quot; means a party who reveals Confidential Information to another party under the terms of this Agreement.  In the case of mutual or multilateral revelations of Confidential Information, with respect to each element of Confidential Information, the party revealing the Confidential Information is the Disclosing Party and the party receiving the Confidential Information is the Receiving Party.
 [[Category:Core.Agt.Def]]</text>
     </revision>
   </page>
@@ -2712,13 +3203,13 @@ Relationship_Acme_Quake
     <title>Agt.Def.Confidential Information</title>
     <id>730</id>
     <revision>
-      <id>7264</id>
-      <timestamp>2014-01-09T00:01:05Z</timestamp>
+      <id>7928</id>
+      <timestamp>2014-01-27T17:28:15Z</timestamp>
       <contributor>
         <username>JH</username>
         <id>2</id>
       </contributor>
-      <text xml:space="preserve" bytes="561">&quot;&lt;u&gt;[[Agt.Def.Confidential_Information|{Confidential Information}]]&lt;/u&gt;&quot; means information that: &lt;ol&gt;&lt;li&gt;relates to {Confidential Subject Matter};&lt;/li&gt;&lt;li&gt;is imparted by the Disclosing Party to the Receiving Party by a {Confidential Method}; and&lt;/li&gt;&lt;li&gt;is not subject to a {Confidentiality Exception}.&lt;/li&gt;&lt;/ol&gt;{Confidential Information} includes any analyses, compilations, studies{q} or other documents, records{q} or data prepared by the Receiving Party or any of its Agents that contain or are generated from any such information. [[Category:Core.Agt.Def]]</text>
+      <text xml:space="preserve" bytes="561">&quot;&lt;u&gt;[[Agt.Def.Confidential_Information|{Confidential Information}]]&lt;/u&gt;&quot; means information that: &lt;ol&gt;&lt;li&gt;relates to {Confidential Subject Matter};&lt;/li&gt;&lt;li&gt;is revealed by the Disclosing Party to the Receiving Party by a {Confidential Method}; and&lt;/li&gt;&lt;li&gt;is not subject to a {Confidentiality Exception}.&lt;/li&gt;&lt;/ol&gt;{Confidential Information} includes any analyses, compilations, studies{q} or other documents, records{q} or data prepared by the Receiving Party or any of its Agents that contain or are generated from any such information. [[Category:Core.Agt.Def]]</text>
     </revision>
   </page>
   <page>
@@ -2781,15 +3272,15 @@ Relationship_Acme_Quake
     <title>Agt.Usage. Sec</title>
     <id>867</id>
     <revision>
-      <id>7921</id>
-      <timestamp>2014-01-27T14:39:57Z</timestamp>
+      <id>7941</id>
+      <timestamp>2014-01-27T18:48:59Z</timestamp>
       <contributor>
         <username>JH</username>
         <id>2</id>
       </contributor>
-      <text xml:space="preserve" bytes="2662">&lt;u&gt;[[Agt.Usage._Sec|Usage]]&lt;/u&gt;. &lt;ol&gt;&lt;li&gt;In this Agreement, unless expressly stated otherwise:
+      <text xml:space="preserve" bytes="2660">&lt;u&gt;[[Agt.Usage._Sec|Usage]]&lt;/u&gt;. &lt;ol&gt;&lt;li&gt;In this Agreement, unless expressly stated otherwise:
 &lt;ol&gt;&lt;li&gt;the singular includes the plural and vice versa;&lt;/li&gt;&lt;li&gt;
-reference to any Person includes such Person’s successors and assigns, if applicable, but only if such successors and assigns are permitted by this Agreement, and reference to a Person in a particular capacity excludes such Person in any other capacity;&lt;/li&gt;&lt;li&gt;
+reference to any Person includes such Person's successors and assigns, if applicable, but only if such successors and assigns are permitted by this Agreement, and reference to a Person in a particular capacity excludes such Person in any other capacity;&lt;/li&gt;&lt;li&gt;
 reference to a gender includes the other gender;&lt;/li&gt;&lt;li&gt;
 reference to any agreement, document, or instrument means such agreement, document, or instrument as amended or modified and in effect from time to time in accordance with its terms;&lt;/li&gt;&lt;li&gt;
 reference to any Legal Requirement means that Legal Requirement as from time to time in effect, including any amendment, modification, codification, replacement, or reenactment of such Legal Requirement;&lt;/li&gt;&lt;li&gt;
@@ -2804,6 +3295,89 @@ a reference to a &quot;copy&quot; or &quot;copies&quot; of any document, instrum
 This Agreement was negotiated by the parties with the benefit of legal representation, and any rule of construction or interpretation otherwise requiring this Agreement to be construed or interpreted against any party as having been drafted by it will not apply to any construction or interpretation of this Agreement.&lt;/li&gt;&lt;li&gt;
 The headings contained in this Agreement are for convenience of reference only, shall not be deemed to be part of this Agreement, and shall not be referred to in connection with the construction or interpretation of this Agreement.&lt;/li&gt;&lt;/ol&gt;
 [[Category:Core.Agt.Def]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Agt.Sec</title>
+    <id>325</id>
+    <revision>
+      <id>3145</id>
+      <timestamp>2013-02-17T16:02:01Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="88">&lt;u&gt;[[{{{1|{{PAGENAMEE}}}}}|{{{2|{{PAGENAME}}}}}]]&lt;/u&gt;.&amp;nbsp; 
+[[Category:Model.Agt.Sec]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Agt.Conf. Sec</title>
+    <id>253</id>
+    <revision>
+      <id>4513</id>
+      <timestamp>2013-03-20T01:51:10Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="135">{{Agt.Sec|Model.Agt.Conf._Sec|Confidentiality}}&lt;ol&gt;&lt;li&gt;[[Model.Agt.Conf._Sec.S]]&lt;/li&gt;&lt;/ol&gt;
+[[Category:Model.Agt]]
+[[Category:Agt.Conf]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Dispute. Sec</title>
+    <id>370</id>
+    <revision>
+      <id>7957</id>
+      <timestamp>2014-01-27T23:55:52Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="96">{{Agt.Sec|Model.Employ.Agt.Dispute._Sec|Disputes}}
+#{Dispute.Procedure._Sec}
+#{Dispute.Law._Sec}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Term. Sec</title>
+    <id>369</id>
+    <revision>
+      <id>3563</id>
+      <timestamp>2013-03-02T04:55:19Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="260">{{Agt.Sec|Model.Employ.Agt.Term._Sec|Termination}}
+#{Term.End.DateCertain._Sec}
+#{Term.Stop.Cause.Without._Sec}
+#{Term.Stop.Cause.With._Sec}
+#{Term.Stop.Resign._Sec}
+#{Term.Stop.Retire._Sec}
+#{Term.Stop.Disable._Sec}
+#{Term.Stop.Die._Sec}
+#{Term.Stop.Reassign}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Model.Employ.Agt.Unfair. Sec</title>
+    <id>371</id>
+    <revision>
+      <id>3245</id>
+      <timestamp>2013-02-21T20:37:37Z</timestamp>
+      <contributor>
+        <username>JH</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with &quot;{{Agt.Sec|Model.Employ.Agt.Unfair._Sec|Unfair Competition}} #{Unfair.Compete.DuringEmployment._Sec} #{Unfair.Compete.AfterEmployment._Sec} #{Unfair.Raiding._Sec} #{Unfair.Interfe...&quot;</comment>
+      <text xml:space="preserve" bytes="184">{{Agt.Sec|Model.Employ.Agt.Unfair._Sec|Unfair Competition}}
+#{Unfair.Compete.DuringEmployment._Sec}
+#{Unfair.Compete.AfterEmployment._Sec}
+#{Unfair.Raiding._Sec}
+#{Unfair.Interference}</text>
     </revision>
   </page>
   <page>
@@ -3456,20 +4030,6 @@ Dispute._Sec.Xref={Sec.1.-} {Dispute._Sec.Xnum}
 Dispute._Sec.Xnum=11
 &lt;/field&gt;
 [[Category:Org.Mozilla]][[Category:Consult.Agt]]</text>
-    </revision>
-  </page>
-  <page>
-    <title>Template:Agt.Sec</title>
-    <id>325</id>
-    <revision>
-      <id>3145</id>
-      <timestamp>2013-02-17T16:02:01Z</timestamp>
-      <contributor>
-        <username>JH</username>
-        <id>2</id>
-      </contributor>
-      <text xml:space="preserve" bytes="88">&lt;u&gt;[[{{{1|{{PAGENAMEE}}}}}|{{{2|{{PAGENAME}}}}}]]&lt;/u&gt;.&amp;nbsp; 
-[[Category:Model.Agt.Sec]]</text>
     </revision>
   </page>
 </mediawiki>
